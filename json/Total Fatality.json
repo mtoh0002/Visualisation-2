@@ -1,0 +1,32 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title": "Total Vehicular Fatalities as of Sept 2020",
+  "width": 800,
+  "height": 600,
+  "projection": {"type": "equirectangular"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/json/LGA_2016_AUST.topojson",
+    "format": {"type": "topojson", "feature": "LGA_2016_AUST"}
+  },
+  "transform": [
+    {
+      "lookup": "properties.LGA_NAME16",
+      "from": {
+        "data": {
+          "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/fatalities%20per%20lga.csv"
+        },
+        "key": "LGA",
+        "fields": ["Fatalities"]
+      }
+    }
+  ],
+  "mark": {"type": "geoshape"},
+  "encoding": {
+    "color": {"field": "Fatalities", "type": "quantitative"},
+    "tooltip": [
+      {"field": "properties.LGA_NAME16", "type": "nominal", "title": "LGA"},
+      {"field": "Fatalities", "type": "quantitative"}
+    ]
+  },
+  "config": {}
+}
