@@ -5,27 +5,35 @@
   "height": 600,
   "projection": {"type": "equirectangular"},
   "data": {
-    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/json/LGA_2016_AUST.topojson",
-    "format": {"type": "topojson", "feature": "LGA_2016_AUST"}
+    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/json/aus_states.topojson",
+    "format": {"type": "topojson", "feature": "STE11aAust"}
   },
   "transform": [
     {
-      "lookup": "properties.LGA_NAME16",
+      "lookup": "properties.STATE_NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/fatalities%20per%20lga.csv"
+          "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Map_data.csv"
         },
-        "key": "LGA",
-        "fields": ["Fatalities"]
+        "key": "State",
+        "fields": ["Year", "Fatality", "Population"]
       }
+    },
+    {
+      "calculate": "datum.Fatality/datum.Population * 10000",
+      "as": "Fatalities per 10,000 population"
     }
   ],
   "mark": {"type": "geoshape"},
   "encoding": {
-    "color": {"field": "Fatalities", "type": "quantitative"},
+    "color": {
+      "field": "Fatalities per 10,000 population",
+      "type": "quantitative"
+    },
     "tooltip": [
-      {"field": "properties.LGA_NAME16", "type": "nominal", "title": "LGA"},
-      {"field": "Fatalities", "type": "quantitative"}
+      {"field": "properties.STATE_NAME", "type": "nominal", "title": "State"},
+      {"field": "Fatalities per 10,000 population", "type": "quantitative"},
+      {"field": "Year", "type": "quantitative"}
     ]
   },
   "config": {}
