@@ -46,7 +46,8 @@
   "selection": {
     "State_highlight": {"type": "multi", "fields": ["State"], "bind": "legend"}
   },
-  "mark": "line",
+  "mark": {"type":"line",
+           "point":true},
   "encoding": {
     "x": {"field": "Year", "type": "temporal"},
     "y": {
