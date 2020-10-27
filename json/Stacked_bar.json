@@ -1,0 +1,77 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Gender_Age_Data.csv"
+  },
+  "spacing": 0,
+  "params": [
+    {
+      "name": "Year",
+      "value": 1989,
+      "bind": {
+        "input": "range",
+        "min": 1989,
+        "max": 2020,
+        "step": 1,
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "State_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Northern Territory",
+          "Tasmania",
+          "Queensland",
+          "South Australia",
+          "New South Wales",
+          "Victoria",
+          "Australian Capital Territory"
+        ],
+        "labels": [
+          "Show All",
+          "Northern Territory",
+          "Tasmania",
+          "Queensland",
+          "South Australia",
+          "New South Wales",
+          "Victoria",
+          "Australian Capital Territory"
+        ],
+        "name": "State:"
+      }
+    }
+  ],
+  "mark": "bar",
+  "encoding": {
+    "x": {"aggregate": "sum", "field": "Fatality"},
+    "y": {"field": "State"},
+    "color": {"field": "Road_User", "title": "Road User"},
+    "tooltip": [
+      {"field": "State", "type": "nominal"},
+      {"field": "Road_User", "type": "nominal"},
+      {
+        "aggregate": "sum",
+        "field": "Fatality",
+        "type": "quantitative",
+        "format": ",",
+        "title": "Fatalities"
+      }
+    ]
+  },
+  "selection": {
+    "User_highlight": {
+      "type": "multi",
+      "fields": ["Road_User"],
+      "bind": "legend"
+    }
+  },
+  "transform": [
+    {"filter": "State_selection == null || datum.State == State_selection"},
+    {"filter": "Year == datum.Year"},
+    {"filter": {"selection": "User_highlight"}}
+  ],
+  "config": {}
+}
