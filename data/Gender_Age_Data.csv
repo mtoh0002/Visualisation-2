@@ -7135,4 +7135,1682 @@
 2014,Queensland,Female,Driver,40 - 64,8
 2014,Queensland,Female,Driver,65 - 74,4
 2014,Queensland,Female,Motorcycle pillion passenger,40 - 64,1
-2014,Quee
+2014,Queensland,Female,Motorcycle rider,40 - 64,1
+2014,Queensland,Female,Passenger,0 - 16,5
+2014,Queensland,Female,Passenger,17 - 25,5
+2014,Queensland,Female,Passenger,26 - 39,5
+2014,Queensland,Female,Passenger,40 - 64,2
+2014,Queensland,Female,Passenger,65 - 74,1
+2014,Queensland,Female,Passenger,>= 75,5
+2014,Queensland,Female,Pedal cyclist,17 - 25,2
+2014,Queensland,Female,Pedestrian,40 - 64,1
+2014,Queensland,Female,Pedestrian,65 - 74,2
+2014,Queensland,Female,Pedestrian,>= 75,1
+2014,Queensland,Male,Driver,17 - 25,16
+2014,Queensland,Male,Driver,26 - 39,24
+2014,Queensland,Male,Driver,40 - 64,28
+2014,Queensland,Male,Driver,65 - 74,8
+2014,Queensland,Male,Driver,>= 75,4
+2014,Queensland,Male,Motorcycle pillion passenger,17 - 25,1
+2014,Queensland,Male,Motorcycle rider,17 - 25,6
+2014,Queensland,Male,Motorcycle rider,26 - 39,11
+2014,Queensland,Male,Motorcycle rider,40 - 64,14
+2014,Queensland,Male,Motorcycle rider,65 - 74,1
+2014,Queensland,Male,Motorcycle rider,>= 75,2
+2014,Queensland,Male,Passenger,0 - 16,5
+2014,Queensland,Male,Passenger,17 - 25,9
+2014,Queensland,Male,Passenger,26 - 39,1
+2014,Queensland,Male,Passenger,40 - 64,10
+2014,Queensland,Male,Passenger,65 - 74,2
+2014,Queensland,Male,Passenger,>= 75,1
+2014,Queensland,Male,Pedal cyclist,40 - 64,5
+2014,Queensland,Male,Pedal cyclist,65 - 74,2
+2014,Queensland,Male,Pedestrian,0 - 16,2
+2014,Queensland,Male,Pedestrian,17 - 25,4
+2014,Queensland,Male,Pedestrian,26 - 39,3
+2014,Queensland,Male,Pedestrian,40 - 64,5
+2014,Queensland,Male,Pedestrian,>= 75,1
+2014,South Australia,Female,Driver,17 - 25,2
+2014,South Australia,Female,Driver,26 - 39,3
+2014,South Australia,Female,Driver,40 - 64,5
+2014,South Australia,Female,Driver,65 - 74,2
+2014,South Australia,Female,Driver,>= 75,1
+2014,South Australia,Female,Motorcycle rider,26 - 39,1
+2014,South Australia,Female,Passenger,0 - 16,3
+2014,South Australia,Female,Passenger,17 - 25,2
+2014,South Australia,Female,Passenger,26 - 39,1
+2014,South Australia,Female,Passenger,40 - 64,3
+2014,South Australia,Female,Passenger,65 - 74,2
+2014,South Australia,Female,Passenger,>= 75,1
+2014,South Australia,Female,Pedal cyclist,40 - 64,1
+2014,South Australia,Female,Pedestrian,40 - 64,1
+2014,South Australia,Female,Pedestrian,>= 75,4
+2014,South Australia,Male,Driver,17 - 25,9
+2014,South Australia,Male,Driver,26 - 39,8
+2014,South Australia,Male,Driver,40 - 64,11
+2014,South Australia,Male,Driver,65 - 74,7
+2014,South Australia,Male,Driver,>= 75,4
+2014,South Australia,Male,Motorcycle rider,17 - 25,1
+2014,South Australia,Male,Motorcycle rider,26 - 39,2
+2014,South Australia,Male,Motorcycle rider,40 - 64,5
+2014,South Australia,Male,Motorcycle rider,65 - 74,2
+2014,South Australia,Male,Passenger,0 - 16,4
+2014,South Australia,Male,Passenger,17 - 25,3
+2014,South Australia,Male,Passenger,26 - 39,2
+2014,South Australia,Male,Passenger,40 - 64,2
+2014,South Australia,Male,Passenger,>= 75,1
+2014,South Australia,Male,Pedal cyclist,26 - 39,1
+2014,South Australia,Male,Pedal cyclist,40 - 64,2
+2014,South Australia,Male,Pedestrian,0 - 16,1
+2014,South Australia,Male,Pedestrian,17 - 25,1
+2014,South Australia,Male,Pedestrian,26 - 39,2
+2014,South Australia,Male,Pedestrian,40 - 64,3
+2014,South Australia,Male,Pedestrian,65 - 74,2
+2014,South Australia,Male,Pedestrian,>= 75,3
+2014,Tasmania,Female,Driver,17 - 25,1
+2014,Tasmania,Female,Driver,40 - 64,4
+2014,Tasmania,Female,Driver,65 - 74,1
+2014,Tasmania,Female,Driver,>= 75,2
+2014,Tasmania,Female,Motorcycle rider,40 - 64,1
+2014,Tasmania,Female,Passenger,0 - 16,2
+2014,Tasmania,Female,Passenger,26 - 39,1
+2014,Tasmania,Female,Passenger,40 - 64,1
+2014,Tasmania,Female,Passenger,>= 75,3
+2014,Tasmania,Female,Pedestrian,0 - 16,1
+2014,Tasmania,Female,Pedestrian,40 - 64,1
+2014,Tasmania,Male,Driver,26 - 39,3
+2014,Tasmania,Male,Driver,40 - 64,3
+2014,Tasmania,Male,Driver,65 - 74,2
+2014,Tasmania,Male,Driver,>= 75,2
+2014,Tasmania,Male,Motorcycle rider,17 - 25,1
+2014,Tasmania,Male,Motorcycle rider,40 - 64,1
+2014,Tasmania,Male,Passenger,17 - 25,1
+2014,Tasmania,Male,Passenger,40 - 64,1
+2014,Tasmania,Male,Pedestrian,0 - 16,1
+2014,Victoria,Female,Driver,0 - 16,1
+2014,Victoria,Female,Driver,17 - 25,6
+2014,Victoria,Female,Driver,26 - 39,6
+2014,Victoria,Female,Driver,40 - 64,6
+2014,Victoria,Female,Driver,65 - 74,7
+2014,Victoria,Female,Driver,>= 75,5
+2014,Victoria,Female,Motorcycle rider,26 - 39,2
+2014,Victoria,Female,Motorcycle rider,40 - 64,1
+2014,Victoria,Female,Passenger,0 - 16,7
+2014,Victoria,Female,Passenger,17 - 25,4
+2014,Victoria,Female,Passenger,26 - 39,4
+2014,Victoria,Female,Passenger,40 - 64,3
+2014,Victoria,Female,Passenger,>= 75,6
+2014,Victoria,Female,Pedestrian,0 - 16,1
+2014,Victoria,Female,Pedestrian,17 - 25,1
+2014,Victoria,Female,Pedestrian,26 - 39,1
+2014,Victoria,Female,Pedestrian,40 - 64,4
+2014,Victoria,Female,Pedestrian,65 - 74,2
+2014,Victoria,Female,Pedestrian,>= 75,3
+2014,Victoria,Male,Driver,17 - 25,17
+2014,Victoria,Male,Driver,26 - 39,18
+2014,Victoria,Male,Driver,40 - 64,32
+2014,Victoria,Male,Driver,65 - 74,6
+2014,Victoria,Male,Driver,>= 75,8
+2014,Victoria,Male,Motorcycle rider,17 - 25,8
+2014,Victoria,Male,Motorcycle rider,26 - 39,11
+2014,Victoria,Male,Motorcycle rider,40 - 64,8
+2014,Victoria,Male,Passenger,0 - 16,3
+2014,Victoria,Male,Passenger,17 - 25,8
+2014,Victoria,Male,Passenger,26 - 39,7
+2014,Victoria,Male,Passenger,40 - 64,5
+2014,Victoria,Male,Passenger,65 - 74,1
+2014,Victoria,Male,Passenger,>= 75,2
+2014,Victoria,Male,Pedal cyclist,40 - 64,4
+2014,Victoria,Male,Pedal cyclist,65 - 74,3
+2014,Victoria,Male,Pedal cyclist,>= 75,3
+2014,Victoria,Male,Pedestrian,0 - 16,3
+2014,Victoria,Male,Pedestrian,17 - 25,5
+2014,Victoria,Male,Pedestrian,26 - 39,8
+2014,Victoria,Male,Pedestrian,40 - 64,8
+2014,Victoria,Male,Pedestrian,65 - 74,3
+2014,Victoria,Male,Pedestrian,>= 75,7
+2014,Western Australia,Female,Driver,17 - 25,3
+2014,Western Australia,Female,Driver,26 - 39,4
+2014,Western Australia,Female,Driver,40 - 64,6
+2014,Western Australia,Female,Driver,65 - 74,3
+2014,Western Australia,Female,Driver,>= 75,5
+2014,Western Australia,Female,Motorcycle pillion passenger,17 - 25,1
+2014,Western Australia,Female,Motorcycle rider,40 - 64,2
+2014,Western Australia,Female,Passenger,0 - 16,5
+2014,Western Australia,Female,Passenger,17 - 25,6
+2014,Western Australia,Female,Passenger,26 - 39,3
+2014,Western Australia,Female,Passenger,40 - 64,4
+2014,Western Australia,Female,Passenger,>= 75,1
+2014,Western Australia,Female,Pedal cyclist,40 - 64,1
+2014,Western Australia,Female,Pedal cyclist,65 - 74,1
+2014,Western Australia,Female,Pedestrian,0 - 16,1
+2014,Western Australia,Female,Pedestrian,26 - 39,1
+2014,Western Australia,Female,Pedestrian,65 - 74,1
+2014,Western Australia,Male,Driver,Unknown,1
+2014,Western Australia,Male,Driver,0 - 16,1
+2014,Western Australia,Male,Driver,17 - 25,13
+2014,Western Australia,Male,Driver,26 - 39,12
+2014,Western Australia,Male,Driver,40 - 64,19
+2014,Western Australia,Male,Driver,65 - 74,5
+2014,Western Australia,Male,Driver,>= 75,6
+2014,Western Australia,Male,Motorcycle pillion passenger,26 - 39,1
+2014,Western Australia,Male,Motorcycle rider,0 - 16,1
+2014,Western Australia,Male,Motorcycle rider,17 - 25,8
+2014,Western Australia,Male,Motorcycle rider,26 - 39,8
+2014,Western Australia,Male,Motorcycle rider,40 - 64,18
+2014,Western Australia,Male,Motorcycle rider,65 - 74,3
+2014,Western Australia,Male,Motorcycle rider,>= 75,1
+2014,Western Australia,Male,Passenger,0 - 16,2
+2014,Western Australia,Male,Passenger,17 - 25,7
+2014,Western Australia,Male,Passenger,26 - 39,4
+2014,Western Australia,Male,Passenger,40 - 64,3
+2014,Western Australia,Male,Passenger,65 - 74,1
+2014,Western Australia,Male,Passenger,>= 75,1
+2014,Western Australia,Male,Pedal cyclist,17 - 25,1
+2014,Western Australia,Male,Pedal cyclist,26 - 39,4
+2014,Western Australia,Male,Pedal cyclist,40 - 64,1
+2014,Western Australia,Male,Pedal cyclist,65 - 74,1
+2014,Western Australia,Male,Pedestrian,0 - 16,1
+2014,Western Australia,Male,Pedestrian,17 - 25,3
+2014,Western Australia,Male,Pedestrian,26 - 39,2
+2014,Western Australia,Male,Pedestrian,40 - 64,3
+2014,Western Australia,Male,Pedestrian,>= 75,4
+2015,Australian Capital Territory,Female,Driver,65 - 74,1
+2015,Australian Capital Territory,Female,Passenger,0 - 16,1
+2015,Australian Capital Territory,Female,Passenger,>= 75,1
+2015,Australian Capital Territory,Male,Driver,17 - 25,2
+2015,Australian Capital Territory,Male,Driver,26 - 39,2
+2015,Australian Capital Territory,Male,Driver,40 - 64,2
+2015,Australian Capital Territory,Male,Driver,>= 75,1
+2015,Australian Capital Territory,Male,Motorcycle rider,17 - 25,1
+2015,Australian Capital Territory,Male,Motorcycle rider,26 - 39,1
+2015,Australian Capital Territory,Male,Motorcycle rider,40 - 64,1
+2015,Australian Capital Territory,Male,Motorcycle rider,65 - 74,1
+2015,Australian Capital Territory,Male,Pedal cyclist,40 - 64,1
+2015,New South Wales,Female,Driver,17 - 25,13
+2015,New South Wales,Female,Driver,26 - 39,8
+2015,New South Wales,Female,Driver,40 - 64,12
+2015,New South Wales,Female,Driver,65 - 74,4
+2015,New South Wales,Female,Driver,>= 75,8
+2015,New South Wales,Female,Motorcycle pillion passenger,40 - 64,1
+2015,New South Wales,Female,Motorcycle rider,40 - 64,2
+2015,New South Wales,Female,Motorcycle rider,65 - 74,1
+2015,New South Wales,Female,Passenger,0 - 16,9
+2015,New South Wales,Female,Passenger,17 - 25,5
+2015,New South Wales,Female,Passenger,26 - 39,2
+2015,New South Wales,Female,Passenger,40 - 64,8
+2015,New South Wales,Female,Passenger,65 - 74,8
+2015,New South Wales,Female,Passenger,>= 75,5
+2015,New South Wales,Female,Pedestrian,26 - 39,1
+2015,New South Wales,Female,Pedestrian,40 - 64,3
+2015,New South Wales,Female,Pedestrian,65 - 74,6
+2015,New South Wales,Female,Pedestrian,>= 75,12
+2015,New South Wales,Male,Driver,0 - 16,2
+2015,New South Wales,Male,Driver,17 - 25,17
+2015,New South Wales,Male,Driver,26 - 39,22
+2015,New South Wales,Male,Driver,40 - 64,38
+2015,New South Wales,Male,Driver,65 - 74,15
+2015,New South Wales,Male,Driver,>= 75,16
+2015,New South Wales,Male,Motorcycle rider,0 - 16,2
+2015,New South Wales,Male,Motorcycle rider,17 - 25,7
+2015,New South Wales,Male,Motorcycle rider,26 - 39,14
+2015,New South Wales,Male,Motorcycle rider,40 - 64,33
+2015,New South Wales,Male,Motorcycle rider,65 - 74,6
+2015,New South Wales,Male,Motorcycle rider,>= 75,1
+2015,New South Wales,Male,Passenger,0 - 16,4
+2015,New South Wales,Male,Passenger,17 - 25,11
+2015,New South Wales,Male,Passenger,26 - 39,4
+2015,New South Wales,Male,Passenger,40 - 64,2
+2015,New South Wales,Male,Passenger,65 - 74,1
+2015,New South Wales,Male,Passenger,>= 75,1
+2015,New South Wales,Male,Pedal cyclist,17 - 25,1
+2015,New South Wales,Male,Pedal cyclist,26 - 39,1
+2015,New South Wales,Male,Pedal cyclist,40 - 64,3
+2015,New South Wales,Male,Pedal cyclist,65 - 74,1
+2015,New South Wales,Male,Pedal cyclist,>= 75,1
+2015,New South Wales,Male,Pedestrian,0 - 16,3
+2015,New South Wales,Male,Pedestrian,17 - 25,1
+2015,New South Wales,Male,Pedestrian,26 - 39,10
+2015,New South Wales,Male,Pedestrian,40 - 64,13
+2015,New South Wales,Male,Pedestrian,65 - 74,5
+2015,New South Wales,Male,Pedestrian,>= 75,7
+2015,Northern Territory,Female,Driver,17 - 25,1
+2015,Northern Territory,Female,Driver,40 - 64,1
+2015,Northern Territory,Female,Motorcycle rider,40 - 64,1
+2015,Northern Territory,Female,Passenger,0 - 16,1
+2015,Northern Territory,Female,Passenger,17 - 25,1
+2015,Northern Territory,Female,Passenger,26 - 39,1
+2015,Northern Territory,Female,Passenger,40 - 64,3
+2015,Northern Territory,Female,Pedestrian,26 - 39,3
+2015,Northern Territory,Female,Pedestrian,40 - 64,2
+2015,Northern Territory,Male,Driver,17 - 25,3
+2015,Northern Territory,Male,Driver,26 - 39,3
+2015,Northern Territory,Male,Driver,40 - 64,4
+2015,Northern Territory,Male,Driver,65 - 74,2
+2015,Northern Territory,Male,Motorcycle rider,17 - 25,2
+2015,Northern Territory,Male,Motorcycle rider,26 - 39,1
+2015,Northern Territory,Male,Motorcycle rider,40 - 64,2
+2015,Northern Territory,Male,Other/-9,26 - 39,2
+2015,Northern Territory,Male,Passenger,17 - 25,3
+2015,Northern Territory,Male,Passenger,26 - 39,6
+2015,Northern Territory,Male,Passenger,40 - 64,1
+2015,Northern Territory,Male,Pedestrian,17 - 25,1
+2015,Northern Territory,Male,Pedestrian,26 - 39,4
+2015,Northern Territory,Male,Pedestrian,40 - 64,1
+2015,Queensland,Female,Driver,17 - 25,2
+2015,Queensland,Female,Driver,26 - 39,6
+2015,Queensland,Female,Driver,40 - 64,6
+2015,Queensland,Female,Driver,65 - 74,2
+2015,Queensland,Female,Driver,>= 75,2
+2015,Queensland,Female,Motorcycle pillion passenger,40 - 64,1
+2015,Queensland,Female,Motorcycle rider,40 - 64,2
+2015,Queensland,Female,Passenger,0 - 16,2
+2015,Queensland,Female,Passenger,17 - 25,5
+2015,Queensland,Female,Passenger,26 - 39,8
+2015,Queensland,Female,Passenger,40 - 64,5
+2015,Queensland,Female,Passenger,65 - 74,4
+2015,Queensland,Female,Passenger,>= 75,4
+2015,Queensland,Female,Pedestrian,17 - 25,1
+2015,Queensland,Female,Pedestrian,26 - 39,3
+2015,Queensland,Female,Pedestrian,40 - 64,1
+2015,Queensland,Female,Pedestrian,>= 75,2
+2015,Queensland,Male,Driver,17 - 25,22
+2015,Queensland,Male,Driver,26 - 39,21
+2015,Queensland,Male,Driver,40 - 64,25
+2015,Queensland,Male,Driver,65 - 74,11
+2015,Queensland,Male,Driver,>= 75,20
+2015,Queensland,Male,Motorcycle rider,17 - 25,8
+2015,Queensland,Male,Motorcycle rider,26 - 39,22
+2015,Queensland,Male,Motorcycle rider,40 - 64,20
+2015,Queensland,Male,Motorcycle rider,65 - 74,1
+2015,Queensland,Male,Passenger,0 - 16,4
+2015,Queensland,Male,Passenger,17 - 25,5
+2015,Queensland,Male,Passenger,26 - 39,3
+2015,Queensland,Male,Passenger,40 - 64,4
+2015,Queensland,Male,Passenger,65 - 74,1
+2015,Queensland,Male,Passenger,>= 75,2
+2015,Queensland,Male,Pedal cyclist,26 - 39,1
+2015,Queensland,Male,Pedal cyclist,40 - 64,2
+2015,Queensland,Male,Pedal cyclist,>= 75,1
+2015,Queensland,Male,Pedestrian,0 - 16,2
+2015,Queensland,Male,Pedestrian,17 - 25,3
+2015,Queensland,Male,Pedestrian,26 - 39,1
+2015,Queensland,Male,Pedestrian,40 - 64,4
+2015,Queensland,Male,Pedestrian,>= 75,4
+2015,South Australia,Female,Driver,17 - 25,5
+2015,South Australia,Female,Driver,26 - 39,3
+2015,South Australia,Female,Driver,40 - 64,6
+2015,South Australia,Female,Driver,65 - 74,2
+2015,South Australia,Female,Driver,>= 75,2
+2015,South Australia,Female,Passenger,0 - 16,3
+2015,South Australia,Female,Passenger,26 - 39,2
+2015,South Australia,Female,Passenger,40 - 64,1
+2015,South Australia,Female,Passenger,>= 75,3
+2015,South Australia,Female,Pedal cyclist,26 - 39,1
+2015,South Australia,Female,Pedal cyclist,40 - 64,1
+2015,South Australia,Female,Pedestrian,26 - 39,1
+2015,South Australia,Female,Pedestrian,40 - 64,3
+2015,South Australia,Female,Pedestrian,>= 75,3
+2015,South Australia,Male,Driver,17 - 25,6
+2015,South Australia,Male,Driver,26 - 39,8
+2015,South Australia,Male,Driver,40 - 64,13
+2015,South Australia,Male,Driver,65 - 74,3
+2015,South Australia,Male,Driver,>= 75,4
+2015,South Australia,Male,Motorcycle rider,17 - 25,3
+2015,South Australia,Male,Motorcycle rider,26 - 39,3
+2015,South Australia,Male,Motorcycle rider,40 - 64,5
+2015,South Australia,Male,Passenger,0 - 16,3
+2015,South Australia,Male,Passenger,17 - 25,1
+2015,South Australia,Male,Passenger,26 - 39,2
+2015,South Australia,Male,Passenger,65 - 74,1
+2015,South Australia,Male,Passenger,>= 75,1
+2015,South Australia,Male,Pedal cyclist,40 - 64,2
+2015,South Australia,Male,Pedestrian,40 - 64,2
+2015,South Australia,Male,Pedestrian,65 - 74,4
+2015,South Australia,Male,Pedestrian,>= 75,5
+2015,Tasmania,Female,Driver,17 - 25,2
+2015,Tasmania,Female,Driver,26 - 39,1
+2015,Tasmania,Female,Driver,65 - 74,1
+2015,Tasmania,Female,Driver,>= 75,1
+2015,Tasmania,Female,Motorcycle pillion passenger,40 - 64,1
+2015,Tasmania,Female,Passenger,17 - 25,1
+2015,Tasmania,Female,Passenger,26 - 39,1
+2015,Tasmania,Male,Driver,17 - 25,2
+2015,Tasmania,Male,Driver,26 - 39,4
+2015,Tasmania,Male,Driver,40 - 64,5
+2015,Tasmania,Male,Driver,>= 75,1
+2015,Tasmania,Male,Motorcycle rider,17 - 25,5
+2015,Tasmania,Male,Motorcycle rider,26 - 39,1
+2015,Tasmania,Male,Motorcycle rider,40 - 64,2
+2015,Tasmania,Male,Motorcycle rider,65 - 74,1
+2015,Tasmania,Male,Passenger,40 - 64,1
+2015,Tasmania,Male,Pedal cyclist,40 - 64,1
+2015,Tasmania,Male,Pedestrian,26 - 39,1
+2015,Tasmania,Male,Pedestrian,40 - 64,1
+2015,Tasmania,Male,Pedestrian,>= 75,1
+2015,Victoria,Female,Driver,17 - 25,6
+2015,Victoria,Female,Driver,26 - 39,7
+2015,Victoria,Female,Driver,40 - 64,11
+2015,Victoria,Female,Driver,65 - 74,3
+2015,Victoria,Female,Driver,>= 75,4
+2015,Victoria,Female,Motorcycle pillion passenger,40 - 64,1
+2015,Victoria,Female,Motorcycle rider,40 - 64,2
+2015,Victoria,Female,Passenger,0 - 16,4
+2015,Victoria,Female,Passenger,17 - 25,3
+2015,Victoria,Female,Passenger,26 - 39,4
+2015,Victoria,Female,Passenger,40 - 64,5
+2015,Victoria,Female,Passenger,65 - 74,4
+2015,Victoria,Female,Passenger,>= 75,7
+2015,Victoria,Female,Pedestrian,0 - 16,1
+2015,Victoria,Female,Pedestrian,17 - 25,1
+2015,Victoria,Female,Pedestrian,40 - 64,2
+2015,Victoria,Female,Pedestrian,65 - 74,3
+2015,Victoria,Female,Pedestrian,>= 75,4
+2015,Victoria,Male,Driver,17 - 25,21
+2015,Victoria,Male,Driver,26 - 39,24
+2015,Victoria,Male,Driver,40 - 64,27
+2015,Victoria,Male,Driver,65 - 74,11
+2015,Victoria,Male,Driver,>= 75,8
+2015,Victoria,Male,Motorcycle rider,17 - 25,2
+2015,Victoria,Male,Motorcycle rider,26 - 39,13
+2015,Victoria,Male,Motorcycle rider,40 - 64,12
+2015,Victoria,Male,Passenger,0 - 16,9
+2015,Victoria,Male,Passenger,17 - 25,11
+2015,Victoria,Male,Passenger,26 - 39,3
+2015,Victoria,Male,Passenger,40 - 64,5
+2015,Victoria,Male,Passenger,>= 75,2
+2015,Victoria,Male,Pedal cyclist,17 - 25,2
+2015,Victoria,Male,Pedal cyclist,26 - 39,1
+2015,Victoria,Male,Pedal cyclist,40 - 64,5
+2015,Victoria,Male,Pedal cyclist,65 - 74,1
+2015,Victoria,Male,Pedal cyclist,>= 75,1
+2015,Victoria,Male,Pedestrian,17 - 25,3
+2015,Victoria,Male,Pedestrian,26 - 39,2
+2015,Victoria,Male,Pedestrian,40 - 64,8
+2015,Victoria,Male,Pedestrian,65 - 74,5
+2015,Victoria,Male,Pedestrian,>= 75,4
+2015,Western Australia,Female,Driver,17 - 25,3
+2015,Western Australia,Female,Driver,26 - 39,2
+2015,Western Australia,Female,Driver,40 - 64,5
+2015,Western Australia,Female,Driver,>= 75,2
+2015,Western Australia,Female,Motorcycle pillion passenger,17 - 25,1
+2015,Western Australia,Female,Motorcycle pillion passenger,26 - 39,1
+2015,Western Australia,Female,Motorcycle rider,40 - 64,1
+2015,Western Australia,Female,Passenger,0 - 16,6
+2015,Western Australia,Female,Passenger,17 - 25,5
+2015,Western Australia,Female,Passenger,26 - 39,4
+2015,Western Australia,Female,Passenger,40 - 64,3
+2015,Western Australia,Female,Passenger,65 - 74,2
+2015,Western Australia,Female,Passenger,>= 75,2
+2015,Western Australia,Female,Pedestrian,0 - 16,1
+2015,Western Australia,Female,Pedestrian,40 - 64,3
+2015,Western Australia,Male,Driver,17 - 25,8
+2015,Western Australia,Male,Driver,26 - 39,21
+2015,Western Australia,Male,Driver,40 - 64,20
+2015,Western Australia,Male,Driver,65 - 74,3
+2015,Western Australia,Male,Driver,>= 75,6
+2015,Western Australia,Male,Motorcycle rider,0 - 16,1
+2015,Western Australia,Male,Motorcycle rider,17 - 25,4
+2015,Western Australia,Male,Motorcycle rider,26 - 39,4
+2015,Western Australia,Male,Motorcycle rider,40 - 64,8
+2015,Western Australia,Male,Motorcycle rider,65 - 74,1
+2015,Western Australia,Male,Other/-9,>= 75,1
+2015,Western Australia,Male,Passenger,0 - 16,3
+2015,Western Australia,Male,Passenger,17 - 25,13
+2015,Western Australia,Male,Passenger,26 - 39,7
+2015,Western Australia,Male,Passenger,40 - 64,4
+2015,Western Australia,Male,Pedal cyclist,17 - 25,1
+2015,Western Australia,Male,Pedal cyclist,40 - 64,1
+2015,Western Australia,Male,Pedal cyclist,65 - 74,1
+2015,Western Australia,Male,Pedal cyclist,>= 75,1
+2015,Western Australia,Male,Pedestrian,0 - 16,4
+2015,Western Australia,Male,Pedestrian,17 - 25,1
+2015,Western Australia,Male,Pedestrian,26 - 39,1
+2015,Western Australia,Male,Pedestrian,40 - 64,2
+2015,Western Australia,Male,Pedestrian,65 - 74,2
+2016,Australian Capital Territory,Female,Driver,40 - 64,1
+2016,Australian Capital Territory,Female,Driver,>= 75,1
+2016,Australian Capital Territory,Female,Pedestrian,40 - 64,1
+2016,Australian Capital Territory,Male,Driver,17 - 25,2
+2016,Australian Capital Territory,Male,Driver,26 - 39,1
+2016,Australian Capital Territory,Male,Driver,40 - 64,1
+2016,Australian Capital Territory,Male,Motorcycle rider,17 - 25,2
+2016,Australian Capital Territory,Male,Motorcycle rider,26 - 39,1
+2016,New South Wales,Female,Driver,17 - 25,8
+2016,New South Wales,Female,Driver,26 - 39,5
+2016,New South Wales,Female,Driver,40 - 64,9
+2016,New South Wales,Female,Driver,65 - 74,9
+2016,New South Wales,Female,Driver,>= 75,5
+2016,New South Wales,Female,Motorcycle pillion passenger,26 - 39,1
+2016,New South Wales,Female,Motorcycle pillion passenger,40 - 64,1
+2016,New South Wales,Female,Motorcycle rider,26 - 39,2
+2016,New South Wales,Female,Motorcycle rider,40 - 64,3
+2016,New South Wales,Female,Passenger,0 - 16,1
+2016,New South Wales,Female,Passenger,17 - 25,4
+2016,New South Wales,Female,Passenger,26 - 39,7
+2016,New South Wales,Female,Passenger,40 - 64,2
+2016,New South Wales,Female,Passenger,65 - 74,2
+2016,New South Wales,Female,Passenger,>= 75,9
+2016,New South Wales,Female,Pedal cyclist,26 - 39,1
+2016,New South Wales,Female,Pedal cyclist,65 - 74,1
+2016,New South Wales,Female,Pedestrian,0 - 16,1
+2016,New South Wales,Female,Pedestrian,17 - 25,2
+2016,New South Wales,Female,Pedestrian,26 - 39,4
+2016,New South Wales,Female,Pedestrian,40 - 64,8
+2016,New South Wales,Female,Pedestrian,65 - 74,4
+2016,New South Wales,Female,Pedestrian,>= 75,8
+2016,New South Wales,Male,Driver,0 - 16,1
+2016,New South Wales,Male,Driver,17 - 25,32
+2016,New South Wales,Male,Driver,26 - 39,34
+2016,New South Wales,Male,Driver,40 - 64,48
+2016,New South Wales,Male,Driver,65 - 74,11
+2016,New South Wales,Male,Driver,>= 75,21
+2016,New South Wales,Male,Motorcycle pillion passenger,17 - 25,1
+2016,New South Wales,Male,Motorcycle rider,0 - 16,1
+2016,New South Wales,Male,Motorcycle rider,17 - 25,12
+2016,New South Wales,Male,Motorcycle rider,26 - 39,12
+2016,New South Wales,Male,Motorcycle rider,40 - 64,30
+2016,New South Wales,Male,Motorcycle rider,65 - 74,4
+2016,New South Wales,Male,Passenger,0 - 16,8
+2016,New South Wales,Male,Passenger,17 - 25,12
+2016,New South Wales,Male,Passenger,26 - 39,1
+2016,New South Wales,Male,Passenger,40 - 64,2
+2016,New South Wales,Male,Passenger,65 - 74,4
+2016,New South Wales,Male,Passenger,>= 75,2
+2016,New South Wales,Male,Pedal cyclist,40 - 64,1
+2016,New South Wales,Male,Pedal cyclist,65 - 74,1
+2016,New South Wales,Male,Pedal cyclist,>= 75,1
+2016,New South Wales,Male,Pedestrian,0 - 16,6
+2016,New South Wales,Male,Pedestrian,17 - 25,8
+2016,New South Wales,Male,Pedestrian,26 - 39,5
+2016,New South Wales,Male,Pedestrian,40 - 64,14
+2016,New South Wales,Male,Pedestrian,65 - 74,4
+2016,New South Wales,Male,Pedestrian,>= 75,7
+2016,Northern Territory,Female,Passenger,0 - 16,1
+2016,Northern Territory,Female,Passenger,17 - 25,1
+2016,Northern Territory,Female,Passenger,26 - 39,3
+2016,Northern Territory,Female,Passenger,40 - 64,3
+2016,Northern Territory,Female,Passenger,65 - 74,1
+2016,Northern Territory,Female,Pedestrian,26 - 39,1
+2016,Northern Territory,Female,Pedestrian,40 - 64,1
+2016,Northern Territory,Male,Driver,17 - 25,3
+2016,Northern Territory,Male,Driver,26 - 39,6
+2016,Northern Territory,Male,Driver,40 - 64,7
+2016,Northern Territory,Male,Driver,65 - 74,2
+2016,Northern Territory,Male,Driver,>= 75,1
+2016,Northern Territory,Male,Motorcycle rider,17 - 25,1
+2016,Northern Territory,Male,Motorcycle rider,26 - 39,2
+2016,Northern Territory,Male,Motorcycle rider,40 - 64,1
+2016,Northern Territory,Male,Passenger,0 - 16,3
+2016,Northern Territory,Male,Passenger,17 - 25,2
+2016,Northern Territory,Male,Passenger,26 - 39,2
+2016,Northern Territory,Male,Pedestrian,26 - 39,1
+2016,Northern Territory,Male,Pedestrian,40 - 64,3
+2016,Queensland,Female,Driver,17 - 25,5
+2016,Queensland,Female,Driver,26 - 39,5
+2016,Queensland,Female,Driver,40 - 64,8
+2016,Queensland,Female,Driver,65 - 74,2
+2016,Queensland,Female,Driver,>= 75,1
+2016,Queensland,Female,Motorcycle rider,40 - 64,2
+2016,Queensland,Female,Passenger,0 - 16,1
+2016,Queensland,Female,Passenger,17 - 25,7
+2016,Queensland,Female,Passenger,26 - 39,2
+2016,Queensland,Female,Passenger,40 - 64,5
+2016,Queensland,Female,Passenger,>= 75,5
+2016,Queensland,Female,Pedestrian,17 - 25,1
+2016,Queensland,Female,Pedestrian,26 - 39,2
+2016,Queensland,Female,Pedestrian,65 - 74,2
+2016,Queensland,Female,Pedestrian,>= 75,3
+2016,Queensland,Male,Driver,17 - 25,16
+2016,Queensland,Male,Driver,26 - 39,26
+2016,Queensland,Male,Driver,40 - 64,22
+2016,Queensland,Male,Driver,65 - 74,4
+2016,Queensland,Male,Driver,>= 75,17
+2016,Queensland,Male,Motorcycle rider,0 - 16,1
+2016,Queensland,Male,Motorcycle rider,17 - 25,9
+2016,Queensland,Male,Motorcycle rider,26 - 39,10
+2016,Queensland,Male,Motorcycle rider,40 - 64,35
+2016,Queensland,Male,Motorcycle rider,65 - 74,4
+2016,Queensland,Male,Motorcycle rider,>= 75,1
+2016,Queensland,Male,Passenger,0 - 16,2
+2016,Queensland,Male,Passenger,17 - 25,7
+2016,Queensland,Male,Passenger,26 - 39,3
+2016,Queensland,Male,Passenger,40 - 64,1
+2016,Queensland,Male,Passenger,65 - 74,2
+2016,Queensland,Male,Passenger,>= 75,2
+2016,Queensland,Male,Pedal cyclist,40 - 64,6
+2016,Queensland,Male,Pedal cyclist,65 - 74,1
+2016,Queensland,Male,Pedal cyclist,>= 75,1
+2016,Queensland,Male,Pedestrian,0 - 16,3
+2016,Queensland,Male,Pedestrian,17 - 25,7
+2016,Queensland,Male,Pedestrian,26 - 39,6
+2016,Queensland,Male,Pedestrian,40 - 64,5
+2016,Queensland,Male,Pedestrian,65 - 74,1
+2016,Queensland,Male,Pedestrian,>= 75,7
+2016,Queensland,Unspecified,Passenger,0 - 16,1
+2016,South Australia,Female,Driver,17 - 25,3
+2016,South Australia,Female,Driver,26 - 39,1
+2016,South Australia,Female,Driver,40 - 64,4
+2016,South Australia,Female,Driver,65 - 74,2
+2016,South Australia,Female,Driver,>= 75,4
+2016,South Australia,Female,Motorcycle rider,26 - 39,1
+2016,South Australia,Female,Passenger,0 - 16,4
+2016,South Australia,Female,Passenger,26 - 39,3
+2016,South Australia,Female,Passenger,40 - 64,2
+2016,South Australia,Female,Passenger,65 - 74,1
+2016,South Australia,Female,Passenger,>= 75,3
+2016,South Australia,Male,Driver,17 - 25,7
+2016,South Australia,Male,Driver,26 - 39,10
+2016,South Australia,Male,Driver,40 - 64,5
+2016,South Australia,Male,Driver,65 - 74,2
+2016,South Australia,Male,Driver,>= 75,3
+2016,South Australia,Male,Motorcycle rider,17 - 25,2
+2016,South Australia,Male,Motorcycle rider,26 - 39,2
+2016,South Australia,Male,Motorcycle rider,40 - 64,3
+2016,South Australia,Male,Passenger,17 - 25,3
+2016,South Australia,Male,Passenger,26 - 39,1
+2016,South Australia,Male,Passenger,40 - 64,2
+2016,South Australia,Male,Passenger,65 - 74,1
+2016,South Australia,Male,Passenger,>= 75,3
+2016,South Australia,Male,Pedal cyclist,40 - 64,2
+2016,South Australia,Male,Pedal cyclist,65 - 74,1
+2016,South Australia,Male,Pedal cyclist,>= 75,2
+2016,South Australia,Male,Pedestrian,0 - 16,1
+2016,South Australia,Male,Pedestrian,17 - 25,1
+2016,South Australia,Male,Pedestrian,26 - 39,1
+2016,South Australia,Male,Pedestrian,40 - 64,3
+2016,South Australia,Male,Pedestrian,65 - 74,2
+2016,South Australia,Male,Pedestrian,>= 75,1
+2016,Tasmania,Female,Driver,17 - 25,2
+2016,Tasmania,Female,Driver,26 - 39,1
+2016,Tasmania,Female,Motorcycle rider,40 - 64,1
+2016,Tasmania,Female,Passenger,0 - 16,2
+2016,Tasmania,Female,Passenger,26 - 39,1
+2016,Tasmania,Female,Passenger,40 - 64,1
+2016,Tasmania,Female,Passenger,>= 75,1
+2016,Tasmania,Female,Pedestrian,26 - 39,1
+2016,Tasmania,Female,Pedestrian,40 - 64,1
+2016,Tasmania,Male,Driver,17 - 25,1
+2016,Tasmania,Male,Driver,26 - 39,4
+2016,Tasmania,Male,Driver,40 - 64,4
+2016,Tasmania,Male,Driver,65 - 74,2
+2016,Tasmania,Male,Driver,>= 75,3
+2016,Tasmania,Male,Motorcycle pillion passenger,26 - 39,1
+2016,Tasmania,Male,Motorcycle rider,0 - 16,1
+2016,Tasmania,Male,Motorcycle rider,17 - 25,3
+2016,Tasmania,Male,Motorcycle rider,40 - 64,3
+2016,Tasmania,Male,Motorcycle rider,>= 75,1
+2016,Tasmania,Male,Passenger,0 - 16,1
+2016,Tasmania,Male,Pedestrian,17 - 25,1
+2016,Tasmania,Male,Pedestrian,40 - 64,1
+2016,Victoria,Female,Driver,17 - 25,7
+2016,Victoria,Female,Driver,26 - 39,11
+2016,Victoria,Female,Driver,40 - 64,17
+2016,Victoria,Female,Driver,65 - 74,4
+2016,Victoria,Female,Driver,>= 75,6
+2016,Victoria,Female,Passenger,0 - 16,5
+2016,Victoria,Female,Passenger,17 - 25,1
+2016,Victoria,Female,Passenger,26 - 39,2
+2016,Victoria,Female,Passenger,40 - 64,5
+2016,Victoria,Female,Passenger,65 - 74,4
+2016,Victoria,Female,Passenger,>= 75,5
+2016,Victoria,Female,Pedestrian,17 - 25,4
+2016,Victoria,Female,Pedestrian,40 - 64,7
+2016,Victoria,Female,Pedestrian,65 - 74,2
+2016,Victoria,Female,Pedestrian,>= 75,3
+2016,Victoria,Male,Driver,0 - 16,2
+2016,Victoria,Male,Driver,17 - 25,23
+2016,Victoria,Male,Driver,26 - 39,28
+2016,Victoria,Male,Driver,40 - 64,33
+2016,Victoria,Male,Driver,65 - 74,5
+2016,Victoria,Male,Driver,>= 75,14
+2016,Victoria,Male,Motorcycle pillion passenger,17 - 25,1
+2016,Victoria,Male,Motorcycle rider,17 - 25,10
+2016,Victoria,Male,Motorcycle rider,26 - 39,17
+2016,Victoria,Male,Motorcycle rider,40 - 64,25
+2016,Victoria,Male,Motorcycle rider,65 - 74,2
+2016,Victoria,Male,Motorcycle rider,>= 75,1
+2016,Victoria,Male,Passenger,0 - 16,1
+2016,Victoria,Male,Passenger,17 - 25,3
+2016,Victoria,Male,Passenger,26 - 39,2
+2016,Victoria,Male,Passenger,40 - 64,4
+2016,Victoria,Male,Passenger,65 - 74,1
+2016,Victoria,Male,Passenger,>= 75,3
+2016,Victoria,Male,Pedal cyclist,17 - 25,1
+2016,Victoria,Male,Pedal cyclist,26 - 39,1
+2016,Victoria,Male,Pedal cyclist,40 - 64,3
+2016,Victoria,Male,Pedal cyclist,65 - 74,3
+2016,Victoria,Male,Pedestrian,26 - 39,3
+2016,Victoria,Male,Pedestrian,40 - 64,11
+2016,Victoria,Male,Pedestrian,65 - 74,2
+2016,Victoria,Male,Pedestrian,>= 75,8
+2016,Western Australia,Female,Driver,17 - 25,8
+2016,Western Australia,Female,Driver,26 - 39,10
+2016,Western Australia,Female,Driver,40 - 64,7
+2016,Western Australia,Female,Driver,>= 75,2
+2016,Western Australia,Female,Motorcycle pillion passenger,0 - 16,1
+2016,Western Australia,Female,Motorcycle rider,40 - 64,4
+2016,Western Australia,Female,Passenger,0 - 16,3
+2016,Western Australia,Female,Passenger,17 - 25,9
+2016,Western Australia,Female,Passenger,26 - 39,1
+2016,Western Australia,Female,Passenger,40 - 64,1
+2016,Western Australia,Female,Passenger,65 - 74,1
+2016,Western Australia,Female,Pedal cyclist,65 - 74,1
+2016,Western Australia,Female,Pedestrian,17 - 25,1
+2016,Western Australia,Female,Pedestrian,26 - 39,1
+2016,Western Australia,Female,Pedestrian,40 - 64,1
+2016,Western Australia,Female,Pedestrian,65 - 74,1
+2016,Western Australia,Female,Pedestrian,>= 75,1
+2016,Western Australia,Male,Driver,0 - 16,1
+2016,Western Australia,Male,Driver,17 - 25,19
+2016,Western Australia,Male,Driver,26 - 39,22
+2016,Western Australia,Male,Driver,40 - 64,24
+2016,Western Australia,Male,Driver,65 - 74,4
+2016,Western Australia,Male,Driver,>= 75,3
+2016,Western Australia,Male,Motorcycle pillion passenger,0 - 16,1
+2016,Western Australia,Male,Motorcycle pillion passenger,17 - 25,1
+2016,Western Australia,Male,Motorcycle rider,0 - 16,1
+2016,Western Australia,Male,Motorcycle rider,17 - 25,4
+2016,Western Australia,Male,Motorcycle rider,26 - 39,14
+2016,Western Australia,Male,Motorcycle rider,40 - 64,11
+2016,Western Australia,Male,Motorcycle rider,65 - 74,1
+2016,Western Australia,Male,Motorcycle rider,>= 75,1
+2016,Western Australia,Male,Other/-9,0 - 16,1
+2016,Western Australia,Male,Other/-9,17 - 25,1
+2016,Western Australia,Male,Passenger,0 - 16,3
+2016,Western Australia,Male,Passenger,17 - 25,7
+2016,Western Australia,Male,Passenger,26 - 39,7
+2016,Western Australia,Male,Passenger,40 - 64,1
+2016,Western Australia,Male,Passenger,65 - 74,1
+2016,Western Australia,Male,Passenger,>= 75,1
+2016,Western Australia,Male,Pedal cyclist,0 - 16,1
+2016,Western Australia,Male,Pedal cyclist,40 - 64,1
+2016,Western Australia,Male,Pedestrian,0 - 16,1
+2016,Western Australia,Male,Pedestrian,26 - 39,1
+2016,Western Australia,Male,Pedestrian,40 - 64,4
+2016,Western Australia,Male,Pedestrian,65 - 74,1
+2016,Western Australia,Male,Pedestrian,>= 75,2
+2017,Australian Capital Territory,Male,Driver,17 - 25,1
+2017,Australian Capital Territory,Male,Driver,>= 75,1
+2017,Australian Capital Territory,Male,Motorcycle rider,17 - 25,1
+2017,Australian Capital Territory,Male,Passenger,26 - 39,1
+2017,Australian Capital Territory,Male,Pedal cyclist,26 - 39,1
+2017,New South Wales,Female,Driver,17 - 25,6
+2017,New South Wales,Female,Driver,26 - 39,7
+2017,New South Wales,Female,Driver,40 - 64,14
+2017,New South Wales,Female,Driver,65 - 74,7
+2017,New South Wales,Female,Driver,>= 75,10
+2017,New South Wales,Female,Motorcycle pillion passenger,40 - 64,1
+2017,New South Wales,Female,Motorcycle rider,40 - 64,3
+2017,New South Wales,Female,Motorcycle rider,65 - 74,1
+2017,New South Wales,Female,Passenger,0 - 16,6
+2017,New South Wales,Female,Passenger,17 - 25,7
+2017,New South Wales,Female,Passenger,26 - 39,6
+2017,New South Wales,Female,Passenger,40 - 64,9
+2017,New South Wales,Female,Passenger,65 - 74,6
+2017,New South Wales,Female,Passenger,>= 75,8
+2017,New South Wales,Female,Pedestrian,0 - 16,2
+2017,New South Wales,Female,Pedestrian,17 - 25,3
+2017,New South Wales,Female,Pedestrian,26 - 39,3
+2017,New South Wales,Female,Pedestrian,40 - 64,8
+2017,New South Wales,Female,Pedestrian,65 - 74,2
+2017,New South Wales,Female,Pedestrian,>= 75,6
+2017,New South Wales,Male,Driver,0 - 16,2
+2017,New South Wales,Male,Driver,17 - 25,29
+2017,New South Wales,Male,Driver,26 - 39,40
+2017,New South Wales,Male,Driver,40 - 64,45
+2017,New South Wales,Male,Driver,65 - 74,11
+2017,New South Wales,Male,Driver,>= 75,15
+2017,New South Wales,Male,Motorcycle rider,0 - 16,1
+2017,New South Wales,Male,Motorcycle rider,17 - 25,16
+2017,New South Wales,Male,Motorcycle rider,26 - 39,9
+2017,New South Wales,Male,Motorcycle rider,40 - 64,24
+2017,New South Wales,Male,Motorcycle rider,65 - 74,4
+2017,New South Wales,Male,Passenger,0 - 16,5
+2017,New South Wales,Male,Passenger,17 - 25,12
+2017,New South Wales,Male,Passenger,26 - 39,7
+2017,New South Wales,Male,Passenger,40 - 64,8
+2017,New South Wales,Male,Passenger,65 - 74,2
+2017,New South Wales,Male,Passenger,>= 75,6
+2017,New South Wales,Male,Pedal cyclist,17 - 25,2
+2017,New South Wales,Male,Pedal cyclist,40 - 64,3
+2017,New South Wales,Male,Pedal cyclist,65 - 74,3
+2017,New South Wales,Male,Pedestrian,0 - 16,3
+2017,New South Wales,Male,Pedestrian,17 - 25,4
+2017,New South Wales,Male,Pedestrian,26 - 39,1
+2017,New South Wales,Male,Pedestrian,40 - 64,7
+2017,New South Wales,Male,Pedestrian,65 - 74,8
+2017,New South Wales,Male,Pedestrian,>= 75,7
+2017,Northern Territory,Female,Passenger,17 - 25,1
+2017,Northern Territory,Female,Passenger,26 - 39,1
+2017,Northern Territory,Female,Passenger,40 - 64,2
+2017,Northern Territory,Female,Passenger,65 - 74,1
+2017,Northern Territory,Female,Pedestrian,26 - 39,1
+2017,Northern Territory,Female,Pedestrian,40 - 64,1
+2017,Northern Territory,Male,Driver,17 - 25,6
+2017,Northern Territory,Male,Driver,26 - 39,3
+2017,Northern Territory,Male,Driver,40 - 64,2
+2017,Northern Territory,Male,Motorcycle rider,17 - 25,1
+2017,Northern Territory,Male,Motorcycle rider,40 - 64,2
+2017,Northern Territory,Male,Passenger,26 - 39,2
+2017,Northern Territory,Male,Passenger,40 - 64,1
+2017,Northern Territory,Male,Pedestrian,0 - 16,2
+2017,Northern Territory,Male,Pedestrian,26 - 39,3
+2017,Northern Territory,Male,Pedestrian,40 - 64,2
+2017,Queensland,Female,Driver,17 - 25,4
+2017,Queensland,Female,Driver,26 - 39,6
+2017,Queensland,Female,Driver,40 - 64,10
+2017,Queensland,Female,Driver,65 - 74,3
+2017,Queensland,Female,Driver,>= 75,6
+2017,Queensland,Female,Motorcycle pillion passenger,40 - 64,2
+2017,Queensland,Female,Motorcycle rider,26 - 39,1
+2017,Queensland,Female,Motorcycle rider,40 - 64,2
+2017,Queensland,Female,Motorcycle rider,65 - 74,1
+2017,Queensland,Female,Other/-9,17 - 25,1
+2017,Queensland,Female,Passenger,0 - 16,1
+2017,Queensland,Female,Passenger,17 - 25,5
+2017,Queensland,Female,Passenger,26 - 39,4
+2017,Queensland,Female,Passenger,40 - 64,6
+2017,Queensland,Female,Passenger,65 - 74,4
+2017,Queensland,Female,Passenger,>= 75,6
+2017,Queensland,Female,Pedal cyclist,17 - 25,1
+2017,Queensland,Female,Pedal cyclist,40 - 64,1
+2017,Queensland,Female,Pedestrian,0 - 16,1
+2017,Queensland,Female,Pedestrian,17 - 25,3
+2017,Queensland,Female,Pedestrian,26 - 39,3
+2017,Queensland,Female,Pedestrian,40 - 64,1
+2017,Queensland,Female,Pedestrian,>= 75,1
+2017,Queensland,Male,Driver,17 - 25,16
+2017,Queensland,Male,Driver,26 - 39,19
+2017,Queensland,Male,Driver,40 - 64,22
+2017,Queensland,Male,Driver,65 - 74,7
+2017,Queensland,Male,Driver,>= 75,8
+2017,Queensland,Male,Motorcycle rider,17 - 25,5
+2017,Queensland,Male,Motorcycle rider,26 - 39,14
+2017,Queensland,Male,Motorcycle rider,40 - 64,20
+2017,Queensland,Male,Motorcycle rider,65 - 74,2
+2017,Queensland,Male,Motorcycle rider,>= 75,3
+2017,Queensland,Male,Passenger,0 - 16,3
+2017,Queensland,Male,Passenger,17 - 25,10
+2017,Queensland,Male,Passenger,26 - 39,4
+2017,Queensland,Male,Passenger,40 - 64,7
+2017,Queensland,Male,Passenger,>= 75,2
+2017,Queensland,Male,Pedal cyclist,0 - 16,1
+2017,Queensland,Male,Pedal cyclist,40 - 64,3
+2017,Queensland,Male,Pedal cyclist,65 - 74,1
+2017,Queensland,Male,Pedal cyclist,>= 75,1
+2017,Queensland,Male,Pedestrian,17 - 25,4
+2017,Queensland,Male,Pedestrian,26 - 39,1
+2017,Queensland,Male,Pedestrian,40 - 64,10
+2017,Queensland,Male,Pedestrian,65 - 74,3
+2017,Queensland,Male,Pedestrian,>= 75,8
+2017,South Australia,Female,Driver,17 - 25,2
+2017,South Australia,Female,Driver,40 - 64,1
+2017,South Australia,Female,Driver,>= 75,8
+2017,South Australia,Female,Motorcycle rider,26 - 39,1
+2017,South Australia,Female,Passenger,17 - 25,2
+2017,South Australia,Female,Passenger,26 - 39,1
+2017,South Australia,Female,Passenger,65 - 74,1
+2017,South Australia,Female,Passenger,>= 75,1
+2017,South Australia,Female,Pedestrian,40 - 64,1
+2017,South Australia,Female,Pedestrian,>= 75,2
+2017,South Australia,Male,Driver,17 - 25,10
+2017,South Australia,Male,Driver,26 - 39,4
+2017,South Australia,Male,Driver,40 - 64,14
+2017,South Australia,Male,Driver,65 - 74,4
+2017,South Australia,Male,Driver,>= 75,3
+2017,South Australia,Male,Motorcycle rider,17 - 25,6
+2017,South Australia,Male,Motorcycle rider,26 - 39,6
+2017,South Australia,Male,Motorcycle rider,40 - 64,6
+2017,South Australia,Male,Motorcycle rider,65 - 74,5
+2017,South Australia,Male,Passenger,0 - 16,1
+2017,South Australia,Male,Passenger,17 - 25,2
+2017,South Australia,Male,Passenger,26 - 39,2
+2017,South Australia,Male,Passenger,>= 75,1
+2017,South Australia,Male,Pedal cyclist,40 - 64,2
+2017,South Australia,Male,Pedestrian,0 - 16,2
+2017,South Australia,Male,Pedestrian,26 - 39,2
+2017,South Australia,Male,Pedestrian,40 - 64,4
+2017,South Australia,Male,Pedestrian,65 - 74,3
+2017,South Australia,Male,Pedestrian,>= 75,3
+2017,Tasmania,Female,Driver,26 - 39,1
+2017,Tasmania,Female,Driver,40 - 64,4
+2017,Tasmania,Female,Passenger,0 - 16,1
+2017,Tasmania,Female,Passenger,40 - 64,1
+2017,Tasmania,Female,Pedal cyclist,>= 75,1
+2017,Tasmania,Female,Pedestrian,26 - 39,1
+2017,Tasmania,Male,Driver,17 - 25,1
+2017,Tasmania,Male,Driver,26 - 39,1
+2017,Tasmania,Male,Driver,40 - 64,5
+2017,Tasmania,Male,Driver,>= 75,2
+2017,Tasmania,Male,Motorcycle rider,0 - 16,1
+2017,Tasmania,Male,Motorcycle rider,17 - 25,1
+2017,Tasmania,Male,Motorcycle rider,26 - 39,2
+2017,Tasmania,Male,Motorcycle rider,40 - 64,5
+2017,Tasmania,Male,Motorcycle rider,65 - 74,2
+2017,Tasmania,Male,Passenger,0 - 16,1
+2017,Tasmania,Male,Passenger,17 - 25,1
+2017,Tasmania,Male,Pedestrian,65 - 74,1
+2017,Victoria,Female,Driver,17 - 25,10
+2017,Victoria,Female,Driver,26 - 39,7
+2017,Victoria,Female,Driver,40 - 64,8
+2017,Victoria,Female,Driver,>= 75,5
+2017,Victoria,Female,Motorcycle rider,40 - 64,1
+2017,Victoria,Female,Other/-9,40 - 64,1
+2017,Victoria,Female,Passenger,0 - 16,6
+2017,Victoria,Female,Passenger,17 - 25,1
+2017,Victoria,Female,Passenger,26 - 39,2
+2017,Victoria,Female,Passenger,40 - 64,4
+2017,Victoria,Female,Passenger,65 - 74,3
+2017,Victoria,Female,Passenger,>= 75,10
+2017,Victoria,Female,Pedal cyclist,26 - 39,1
+2017,Victoria,Female,Pedal cyclist,40 - 64,1
+2017,Victoria,Female,Pedestrian,40 - 64,4
+2017,Victoria,Female,Pedestrian,65 - 74,2
+2017,Victoria,Female,Pedestrian,>= 75,3
+2017,Victoria,Male,Driver,17 - 25,21
+2017,Victoria,Male,Driver,26 - 39,24
+2017,Victoria,Male,Driver,40 - 64,27
+2017,Victoria,Male,Driver,65 - 74,10
+2017,Victoria,Male,Driver,>= 75,17
+2017,Victoria,Male,Motorcycle pillion passenger,40 - 64,1
+2017,Victoria,Male,Motorcycle rider,17 - 25,3
+2017,Victoria,Male,Motorcycle rider,26 - 39,10
+2017,Victoria,Male,Motorcycle rider,40 - 64,19
+2017,Victoria,Male,Motorcycle rider,65 - 74,3
+2017,Victoria,Male,Motorcycle rider,>= 75,1
+2017,Victoria,Male,Other/-9,17 - 25,2
+2017,Victoria,Male,Other/-9,40 - 64,1
+2017,Victoria,Male,Other/-9,>= 75,1
+2017,Victoria,Male,Passenger,17 - 25,9
+2017,Victoria,Male,Passenger,26 - 39,4
+2017,Victoria,Male,Passenger,40 - 64,3
+2017,Victoria,Male,Passenger,65 - 74,2
+2017,Victoria,Male,Passenger,>= 75,1
+2017,Victoria,Male,Pedal cyclist,17 - 25,2
+2017,Victoria,Male,Pedal cyclist,26 - 39,1
+2017,Victoria,Male,Pedal cyclist,40 - 64,5
+2017,Victoria,Male,Pedal cyclist,65 - 74,1
+2017,Victoria,Male,Pedal cyclist,>= 75,1
+2017,Victoria,Male,Pedestrian,0 - 16,2
+2017,Victoria,Male,Pedestrian,17 - 25,2
+2017,Victoria,Male,Pedestrian,26 - 39,2
+2017,Victoria,Male,Pedestrian,40 - 64,6
+2017,Victoria,Male,Pedestrian,65 - 74,2
+2017,Victoria,Male,Pedestrian,>= 75,7
+2017,Western Australia,Female,Driver,17 - 25,3
+2017,Western Australia,Female,Driver,26 - 39,2
+2017,Western Australia,Female,Driver,40 - 64,8
+2017,Western Australia,Female,Driver,>= 75,3
+2017,Western Australia,Female,Other/-9,0 - 16,1
+2017,Western Australia,Female,Other/-9,>= 75,1
+2017,Western Australia,Female,Passenger,17 - 25,1
+2017,Western Australia,Female,Passenger,26 - 39,2
+2017,Western Australia,Female,Passenger,40 - 64,3
+2017,Western Australia,Female,Passenger,65 - 74,1
+2017,Western Australia,Female,Passenger,>= 75,1
+2017,Western Australia,Female,Pedestrian,17 - 25,1
+2017,Western Australia,Female,Pedestrian,26 - 39,1
+2017,Western Australia,Female,Pedestrian,>= 75,3
+2017,Western Australia,Male,Driver,17 - 25,9
+2017,Western Australia,Male,Driver,26 - 39,11
+2017,Western Australia,Male,Driver,40 - 64,25
+2017,Western Australia,Male,Driver,65 - 74,5
+2017,Western Australia,Male,Driver,>= 75,11
+2017,Western Australia,Male,Motorcycle pillion passenger,0 - 16,1
+2017,Western Australia,Male,Motorcycle rider,17 - 25,10
+2017,Western Australia,Male,Motorcycle rider,26 - 39,5
+2017,Western Australia,Male,Motorcycle rider,40 - 64,7
+2017,Western Australia,Male,Motorcycle rider,65 - 74,2
+2017,Western Australia,Male,Other/-9,>= 75,2
+2017,Western Australia,Male,Passenger,0 - 16,4
+2017,Western Australia,Male,Passenger,17 - 25,6
+2017,Western Australia,Male,Passenger,26 - 39,6
+2017,Western Australia,Male,Passenger,40 - 64,4
+2017,Western Australia,Male,Passenger,65 - 74,3
+2017,Western Australia,Male,Passenger,>= 75,1
+2017,Western Australia,Male,Pedal cyclist,17 - 25,1
+2017,Western Australia,Male,Pedal cyclist,40 - 64,2
+2017,Western Australia,Male,Pedal cyclist,65 - 74,3
+2017,Western Australia,Male,Pedal cyclist,>= 75,1
+2017,Western Australia,Male,Pedestrian,0 - 16,2
+2017,Western Australia,Male,Pedestrian,26 - 39,1
+2017,Western Australia,Male,Pedestrian,40 - 64,2
+2017,Western Australia,Male,Pedestrian,65 - 74,1
+2017,Western Australia,Male,Pedestrian,>= 75,3
+2018,Australian Capital Territory,Female,Driver,40 - 64,1
+2018,Australian Capital Territory,Female,Pedal cyclist,40 - 64,1
+2018,Australian Capital Territory,Male,Driver,26 - 39,1
+2018,Australian Capital Territory,Male,Motorcycle rider,26 - 39,1
+2018,Australian Capital Territory,Male,Motorcycle rider,40 - 64,1
+2018,Australian Capital Territory,Male,Passenger,0 - 16,1
+2018,Australian Capital Territory,Male,Passenger,17 - 25,1
+2018,Australian Capital Territory,Male,Pedestrian,0 - 16,1
+2018,Australian Capital Territory,Male,Pedestrian,26 - 39,1
+2018,New South Wales,Female,Driver,17 - 25,14
+2018,New South Wales,Female,Driver,26 - 39,7
+2018,New South Wales,Female,Driver,40 - 64,9
+2018,New South Wales,Female,Driver,65 - 74,1
+2018,New South Wales,Female,Driver,>= 75,5
+2018,New South Wales,Female,Motorcycle rider,65 - 74,1
+2018,New South Wales,Female,Passenger,0 - 16,2
+2018,New South Wales,Female,Passenger,17 - 25,6
+2018,New South Wales,Female,Passenger,26 - 39,6
+2018,New South Wales,Female,Passenger,40 - 64,4
+2018,New South Wales,Female,Passenger,65 - 74,3
+2018,New South Wales,Female,Passenger,>= 75,5
+2018,New South Wales,Female,Pedal cyclist,40 - 64,1
+2018,New South Wales,Female,Pedestrian,0 - 16,1
+2018,New South Wales,Female,Pedestrian,17 - 25,2
+2018,New South Wales,Female,Pedestrian,26 - 39,2
+2018,New South Wales,Female,Pedestrian,40 - 64,6
+2018,New South Wales,Female,Pedestrian,65 - 74,4
+2018,New South Wales,Female,Pedestrian,>= 75,5
+2018,New South Wales,Male,Driver,0 - 16,2
+2018,New South Wales,Male,Driver,17 - 25,28
+2018,New South Wales,Male,Driver,26 - 39,24
+2018,New South Wales,Male,Driver,40 - 64,39
+2018,New South Wales,Male,Driver,65 - 74,17
+2018,New South Wales,Male,Driver,>= 75,12
+2018,New South Wales,Male,Motorcycle rider,0 - 16,1
+2018,New South Wales,Male,Motorcycle rider,17 - 25,11
+2018,New South Wales,Male,Motorcycle rider,26 - 39,16
+2018,New South Wales,Male,Motorcycle rider,40 - 64,18
+2018,New South Wales,Male,Motorcycle rider,65 - 74,6
+2018,New South Wales,Male,Motorcycle rider,>= 75,1
+2018,New South Wales,Male,Passenger,0 - 16,2
+2018,New South Wales,Male,Passenger,17 - 25,11
+2018,New South Wales,Male,Passenger,26 - 39,7
+2018,New South Wales,Male,Passenger,40 - 64,7
+2018,New South Wales,Male,Passenger,>= 75,4
+2018,New South Wales,Male,Pedal cyclist,17 - 25,1
+2018,New South Wales,Male,Pedal cyclist,26 - 39,1
+2018,New South Wales,Male,Pedal cyclist,40 - 64,4
+2018,New South Wales,Male,Pedal cyclist,65 - 74,1
+2018,New South Wales,Male,Pedal cyclist,>= 75,1
+2018,New South Wales,Male,Pedestrian,0 - 16,3
+2018,New South Wales,Male,Pedestrian,17 - 25,5
+2018,New South Wales,Male,Pedestrian,26 - 39,5
+2018,New South Wales,Male,Pedestrian,40 - 64,12
+2018,New South Wales,Male,Pedestrian,65 - 74,7
+2018,New South Wales,Male,Pedestrian,>= 75,17
+2018,Northern Territory,Female,Driver,17 - 25,1
+2018,Northern Territory,Female,Motorcycle rider,40 - 64,1
+2018,Northern Territory,Female,Other/-9,17 - 25,1
+2018,Northern Territory,Female,Other/-9,26 - 39,1
+2018,Northern Territory,Female,Other/-9,40 - 64,1
+2018,Northern Territory,Female,Other/-9,65 - 74,1
+2018,Northern Territory,Female,Passenger,17 - 25,2
+2018,Northern Territory,Female,Passenger,26 - 39,2
+2018,Northern Territory,Female,Passenger,40 - 64,3
+2018,Northern Territory,Female,Passenger,>= 75,1
+2018,Northern Territory,Female,Pedestrian,17 - 25,1
+2018,Northern Territory,Female,Pedestrian,26 - 39,2
+2018,Northern Territory,Female,Pedestrian,40 - 64,4
+2018,Northern Territory,Male,Driver,17 - 25,1
+2018,Northern Territory,Male,Driver,26 - 39,6
+2018,Northern Territory,Male,Driver,40 - 64,2
+2018,Northern Territory,Male,Driver,65 - 74,1
+2018,Northern Territory,Male,Driver,>= 75,1
+2018,Northern Territory,Male,Motorcycle rider,0 - 16,1
+2018,Northern Territory,Male,Motorcycle rider,26 - 39,2
+2018,Northern Territory,Male,Motorcycle rider,40 - 64,3
+2018,Northern Territory,Male,Motorcycle rider,65 - 74,1
+2018,Northern Territory,Male,Passenger,0 - 16,2
+2018,Northern Territory,Male,Passenger,26 - 39,4
+2018,Northern Territory,Male,Passenger,40 - 64,1
+2018,Northern Territory,Male,Pedestrian,17 - 25,1
+2018,Northern Territory,Male,Pedestrian,26 - 39,1
+2018,Northern Territory,Male,Pedestrian,40 - 64,2
+2018,Queensland,-9,Passenger,0 - 16,1
+2018,Queensland,Female,Driver,17 - 25,4
+2018,Queensland,Female,Driver,26 - 39,4
+2018,Queensland,Female,Driver,40 - 64,14
+2018,Queensland,Female,Driver,65 - 74,3
+2018,Queensland,Female,Driver,>= 75,4
+2018,Queensland,Female,Motorcycle rider,26 - 39,1
+2018,Queensland,Female,Motorcycle rider,40 - 64,1
+2018,Queensland,Female,Passenger,0 - 16,2
+2018,Queensland,Female,Passenger,17 - 25,4
+2018,Queensland,Female,Passenger,26 - 39,3
+2018,Queensland,Female,Passenger,40 - 64,3
+2018,Queensland,Female,Passenger,65 - 74,3
+2018,Queensland,Female,Passenger,>= 75,2
+2018,Queensland,Female,Pedal cyclist,0 - 16,1
+2018,Queensland,Female,Pedestrian,26 - 39,1
+2018,Queensland,Female,Pedestrian,40 - 64,7
+2018,Queensland,Female,Pedestrian,65 - 74,1
+2018,Queensland,Female,Pedestrian,>= 75,3
+2018,Queensland,Male,Driver,17 - 25,26
+2018,Queensland,Male,Driver,26 - 39,21
+2018,Queensland,Male,Driver,40 - 64,28
+2018,Queensland,Male,Driver,65 - 74,9
+2018,Queensland,Male,Driver,>= 75,8
+2018,Queensland,Male,Motorcycle rider,17 - 25,5
+2018,Queensland,Male,Motorcycle rider,26 - 39,10
+2018,Queensland,Male,Motorcycle rider,40 - 64,19
+2018,Queensland,Male,Motorcycle rider,65 - 74,6
+2018,Queensland,Male,Motorcycle rider,>= 75,1
+2018,Queensland,Male,Passenger,0 - 16,7
+2018,Queensland,Male,Passenger,17 - 25,5
+2018,Queensland,Male,Passenger,26 - 39,4
+2018,Queensland,Male,Passenger,40 - 64,7
+2018,Queensland,Male,Pedal cyclist,26 - 39,1
+2018,Queensland,Male,Pedal cyclist,40 - 64,2
+2018,Queensland,Male,Pedal cyclist,65 - 74,1
+2018,Queensland,Male,Pedestrian,0 - 16,2
+2018,Queensland,Male,Pedestrian,17 - 25,8
+2018,Queensland,Male,Pedestrian,26 - 39,6
+2018,Queensland,Male,Pedestrian,40 - 64,3
+2018,Queensland,Male,Pedestrian,65 - 74,2
+2018,Queensland,Male,Pedestrian,>= 75,2
+2018,South Australia,Female,Driver,17 - 25,3
+2018,South Australia,Female,Driver,26 - 39,1
+2018,South Australia,Female,Driver,40 - 64,2
+2018,South Australia,Female,Driver,65 - 74,3
+2018,South Australia,Female,Driver,>= 75,1
+2018,South Australia,Female,Passenger,0 - 16,1
+2018,South Australia,Female,Passenger,17 - 25,2
+2018,South Australia,Female,Passenger,26 - 39,1
+2018,South Australia,Female,Passenger,65 - 74,1
+2018,South Australia,Female,Passenger,>= 75,1
+2018,South Australia,Female,Pedestrian,26 - 39,1
+2018,South Australia,Female,Pedestrian,>= 75,1
+2018,South Australia,Male,Driver,17 - 25,7
+2018,South Australia,Male,Driver,26 - 39,6
+2018,South Australia,Male,Driver,40 - 64,11
+2018,South Australia,Male,Driver,>= 75,7
+2018,South Australia,Male,Motorcycle rider,17 - 25,1
+2018,South Australia,Male,Motorcycle rider,40 - 64,7
+2018,South Australia,Male,Motorcycle rider,65 - 74,2
+2018,South Australia,Male,Passenger,0 - 16,1
+2018,South Australia,Male,Passenger,17 - 25,3
+2018,South Australia,Male,Passenger,26 - 39,2
+2018,South Australia,Male,Passenger,40 - 64,2
+2018,South Australia,Male,Passenger,65 - 74,1
+2018,South Australia,Male,Passenger,>= 75,1
+2018,South Australia,Male,Pedal cyclist,0 - 16,1
+2018,South Australia,Male,Pedal cyclist,26 - 39,1
+2018,South Australia,Male,Pedal cyclist,40 - 64,2
+2018,South Australia,Male,Pedal cyclist,65 - 74,2
+2018,South Australia,Male,Pedal cyclist,>= 75,1
+2018,South Australia,Male,Pedestrian,0 - 16,1
+2018,South Australia,Male,Pedestrian,17 - 25,2
+2018,South Australia,Male,Pedestrian,40 - 64,1
+2018,Tasmania,Female,Driver,17 - 25,1
+2018,Tasmania,Female,Driver,26 - 39,1
+2018,Tasmania,Female,Driver,40 - 64,1
+2018,Tasmania,Female,Driver,65 - 74,1
+2018,Tasmania,Female,Passenger,40 - 64,1
+2018,Tasmania,Female,Pedestrian,>= 75,1
+2018,Tasmania,Male,Driver,17 - 25,2
+2018,Tasmania,Male,Driver,26 - 39,1
+2018,Tasmania,Male,Driver,40 - 64,4
+2018,Tasmania,Male,Driver,65 - 74,3
+2018,Tasmania,Male,Driver,>= 75,1
+2018,Tasmania,Male,Motorcycle rider,17 - 25,4
+2018,Tasmania,Male,Motorcycle rider,26 - 39,3
+2018,Tasmania,Male,Motorcycle rider,40 - 64,1
+2018,Tasmania,Male,Passenger,17 - 25,3
+2018,Tasmania,Male,Passenger,40 - 64,1
+2018,Tasmania,Male,Pedal cyclist,40 - 64,1
+2018,Tasmania,Male,Pedestrian,17 - 25,1
+2018,Tasmania,Male,Pedestrian,40 - 64,1
+2018,Victoria,Female,Driver,17 - 25,2
+2018,Victoria,Female,Driver,26 - 39,6
+2018,Victoria,Female,Driver,40 - 64,6
+2018,Victoria,Female,Driver,65 - 74,5
+2018,Victoria,Female,Driver,>= 75,5
+2018,Victoria,Female,Motorcycle pillion passenger,40 - 64,1
+2018,Victoria,Female,Motorcycle rider,26 - 39,1
+2018,Victoria,Female,Other/-9,>= 75,1
+2018,Victoria,Female,Passenger,0 - 16,3
+2018,Victoria,Female,Passenger,17 - 25,4
+2018,Victoria,Female,Passenger,26 - 39,1
+2018,Victoria,Female,Passenger,40 - 64,7
+2018,Victoria,Female,Passenger,65 - 74,3
+2018,Victoria,Female,Passenger,>= 75,1
+2018,Victoria,Female,Pedal cyclist,26 - 39,2
+2018,Victoria,Female,Pedestrian,0 - 16,2
+2018,Victoria,Female,Pedestrian,26 - 39,1
+2018,Victoria,Female,Pedestrian,40 - 64,2
+2018,Victoria,Female,Pedestrian,65 - 74,3
+2018,Victoria,Female,Pedestrian,>= 75,3
+2018,Victoria,Male,Driver,17 - 25,12
+2018,Victoria,Male,Driver,26 - 39,23
+2018,Victoria,Male,Driver,40 - 64,21
+2018,Victoria,Male,Driver,65 - 74,8
+2018,Victoria,Male,Driver,>= 75,10
+2018,Victoria,Male,Motorcycle rider,17 - 25,4
+2018,Victoria,Male,Motorcycle rider,26 - 39,13
+2018,Victoria,Male,Motorcycle rider,40 - 64,16
+2018,Victoria,Male,Motorcycle rider,65 - 74,3
+2018,Victoria,Male,Passenger,0 - 16,3
+2018,Victoria,Male,Passenger,17 - 25,3
+2018,Victoria,Male,Passenger,26 - 39,3
+2018,Victoria,Male,Passenger,40 - 64,2
+2018,Victoria,Male,Passenger,65 - 74,1
+2018,Victoria,Male,Passenger,>= 75,1
+2018,Victoria,Male,Pedal cyclist,40 - 64,4
+2018,Victoria,Male,Pedal cyclist,65 - 74,1
+2018,Victoria,Male,Pedestrian,0 - 16,1
+2018,Victoria,Male,Pedestrian,17 - 25,4
+2018,Victoria,Male,Pedestrian,26 - 39,6
+2018,Victoria,Male,Pedestrian,40 - 64,5
+2018,Victoria,Male,Pedestrian,65 - 74,2
+2018,Victoria,Male,Pedestrian,>= 75,8
+2018,Western Australia,Female,Driver,Unknown,1
+2018,Western Australia,Female,Driver,17 - 25,5
+2018,Western Australia,Female,Driver,26 - 39,1
+2018,Western Australia,Female,Driver,40 - 64,4
+2018,Western Australia,Female,Driver,>= 75,3
+2018,Western Australia,Female,Motorcycle rider,26 - 39,1
+2018,Western Australia,Female,Passenger,0 - 16,2
+2018,Western Australia,Female,Passenger,17 - 25,1
+2018,Western Australia,Female,Passenger,26 - 39,8
+2018,Western Australia,Female,Passenger,40 - 64,6
+2018,Western Australia,Female,Passenger,>= 75,3
+2018,Western Australia,Female,Pedestrian,0 - 16,2
+2018,Western Australia,Female,Pedestrian,26 - 39,2
+2018,Western Australia,Female,Pedestrian,40 - 64,2
+2018,Western Australia,Male,Driver,Unknown,1
+2018,Western Australia,Male,Driver,0 - 16,2
+2018,Western Australia,Male,Driver,17 - 25,11
+2018,Western Australia,Male,Driver,26 - 39,17
+2018,Western Australia,Male,Driver,40 - 64,20
+2018,Western Australia,Male,Driver,65 - 74,5
+2018,Western Australia,Male,Driver,>= 75,4
+2018,Western Australia,Male,Motorcycle rider,17 - 25,3
+2018,Western Australia,Male,Motorcycle rider,26 - 39,9
+2018,Western Australia,Male,Motorcycle rider,40 - 64,14
+2018,Western Australia,Male,Motorcycle rider,65 - 74,1
+2018,Western Australia,Male,Other/-9,0 - 16,1
+2018,Western Australia,Male,Passenger,Unknown,2
+2018,Western Australia,Male,Passenger,0 - 16,2
+2018,Western Australia,Male,Passenger,17 - 25,6
+2018,Western Australia,Male,Passenger,26 - 39,2
+2018,Western Australia,Male,Passenger,40 - 64,3
+2018,Western Australia,Male,Passenger,>= 75,1
+2018,Western Australia,Male,Pedal cyclist,26 - 39,2
+2018,Western Australia,Male,Pedal cyclist,40 - 64,1
+2018,Western Australia,Male,Pedal cyclist,65 - 74,1
+2018,Western Australia,Male,Pedal cyclist,>= 75,1
+2018,Western Australia,Male,Pedestrian,0 - 16,1
+2018,Western Australia,Male,Pedestrian,17 - 25,3
+2018,Western Australia,Male,Pedestrian,26 - 39,2
+2018,Western Australia,Male,Pedestrian,>= 75,2
+2019,Australian Capital Territory,Female,Driver,40 - 64,1
+2019,Australian Capital Territory,Male,Driver,26 - 39,1
+2019,Australian Capital Territory,Male,Driver,40 - 64,1
+2019,Australian Capital Territory,Male,Driver,65 - 74,1
+2019,Australian Capital Territory,Male,Pedestrian,40 - 64,1
+2019,Australian Capital Territory,Male,Pedestrian,>= 75,1
+2019,New South Wales,Female,Driver,17 - 25,4
+2019,New South Wales,Female,Driver,26 - 39,9
+2019,New South Wales,Female,Driver,40 - 64,10
+2019,New South Wales,Female,Driver,65 - 74,4
+2019,New South Wales,Female,Driver,>= 75,7
+2019,New South Wales,Female,Motorcycle pillion passenger,17 - 25,1
+2019,New South Wales,Female,Motorcycle rider,40 - 64,2
+2019,New South Wales,Female,Passenger,0 - 16,3
+2019,New South Wales,Female,Passenger,17 - 25,6
+2019,New South Wales,Female,Passenger,26 - 39,2
+2019,New South Wales,Female,Passenger,40 - 64,6
+2019,New South Wales,Female,Passenger,65 - 74,3
+2019,New South Wales,Female,Passenger,>= 75,4
+2019,New South Wales,Female,Pedal cyclist,17 - 25,1
+2019,New South Wales,Female,Pedal cyclist,40 - 64,1
+2019,New South Wales,Female,Pedal cyclist,65 - 74,1
+2019,New South Wales,Female,Pedestrian,0 - 16,1
+2019,New South Wales,Female,Pedestrian,26 - 39,2
+2019,New South Wales,Female,Pedestrian,40 - 64,2
+2019,New South Wales,Female,Pedestrian,65 - 74,4
+2019,New South Wales,Female,Pedestrian,>= 75,6
+2019,New South Wales,Male,Driver,17 - 25,17
+2019,New South Wales,Male,Driver,26 - 39,31
+2019,New South Wales,Male,Driver,40 - 64,56
+2019,New South Wales,Male,Driver,65 - 74,9
+2019,New South Wales,Male,Driver,>= 75,21
+2019,New South Wales,Male,Motorcycle pillion passenger,17 - 25,1
+2019,New South Wales,Male,Motorcycle pillion passenger,26 - 39,1
+2019,New South Wales,Male,Motorcycle rider,17 - 25,15
+2019,New South Wales,Male,Motorcycle rider,26 - 39,15
+2019,New South Wales,Male,Motorcycle rider,40 - 64,23
+2019,New South Wales,Male,Motorcycle rider,65 - 74,10
+2019,New South Wales,Male,Passenger,0 - 16,5
+2019,New South Wales,Male,Passenger,17 - 25,11
+2019,New South Wales,Male,Passenger,26 - 39,5
+2019,New South Wales,Male,Passenger,40 - 64,6
+2019,New South Wales,Male,Passenger,65 - 74,2
+2019,New South Wales,Male,Passenger,>= 75,6
+2019,New South Wales,Male,Pedal cyclist,17 - 25,2
+2019,New South Wales,Male,Pedal cyclist,40 - 64,6
+2019,New South Wales,Male,Pedal cyclist,65 - 74,1
+2019,New South Wales,Male,Pedal cyclist,>= 75,2
+2019,New South Wales,Male,Pedestrian,0 - 16,1
+2019,New South Wales,Male,Pedestrian,17 - 25,3
+2019,New South Wales,Male,Pedestrian,26 - 39,3
+2019,New South Wales,Male,Pedestrian,40 - 64,10
+2019,New South Wales,Male,Pedestrian,65 - 74,6
+2019,New South Wales,Male,Pedestrian,>= 75,8
+2019,Northern Territory,Female,Driver,26 - 39,1
+2019,Northern Territory,Female,Driver,40 - 64,4
+2019,Northern Territory,Female,Passenger,26 - 39,2
+2019,Northern Territory,Female,Pedestrian,26 - 39,1
+2019,Northern Territory,Male,Driver,17 - 25,2
+2019,Northern Territory,Male,Driver,26 - 39,8
+2019,Northern Territory,Male,Driver,40 - 64,1
+2019,Northern Territory,Male,Motorcycle rider,17 - 25,1
+2019,Northern Territory,Male,Motorcycle rider,26 - 39,1
+2019,Northern Territory,Male,Motorcycle rider,40 - 64,1
+2019,Northern Territory,Male,Passenger,0 - 16,3
+2019,Northern Territory,Male,Passenger,17 - 25,4
+2019,Northern Territory,Male,Passenger,26 - 39,4
+2019,Northern Territory,Male,Pedestrian,26 - 39,3
+2019,Queensland,Female,Driver,0 - 16,1
+2019,Queensland,Female,Driver,26 - 39,4
+2019,Queensland,Female,Driver,40 - 64,8
+2019,Queensland,Female,Driver,65 - 74,2
+2019,Queensland,Female,Driver,>= 75,3
+2019,Queensland,Female,Motorcycle pillion passenger,26 - 39,1
+2019,Queensland,Female,Motorcycle rider,40 - 64,3
+2019,Queensland,Female,Other/-9,40 - 64,1
+2019,Queensland,Female,Passenger,0 - 16,5
+2019,Queensland,Female,Passenger,17 - 25,4
+2019,Queensland,Female,Passenger,26 - 39,3
+2019,Queensland,Female,Passenger,40 - 64,1
+2019,Queensland,Female,Passenger,65 - 74,4
+2019,Queensland,Female,Pedestrian,26 - 39,2
+2019,Queensland,Female,Pedestrian,40 - 64,1
+2019,Queensland,Female,Pedestrian,>= 75,2
+2019,Queensland,Male,Driver,17 - 25,34
+2019,Queensland,Male,Driver,26 - 39,19
+2019,Queensland,Male,Driver,40 - 64,24
+2019,Queensland,Male,Driver,65 - 74,6
+2019,Queensland,Male,Driver,>= 75,11
+2019,Queensland,Male,Motorcycle rider,0 - 16,1
+2019,Queensland,Male,Motorcycle rider,17 - 25,5
+2019,Queensland,Male,Motorcycle rider,26 - 39,16
+2019,Queensland,Male,Motorcycle rider,40 - 64,17
+2019,Queensland,Male,Motorcycle rider,65 - 74,1
+2019,Queensland,Male,Motorcycle rider,>= 75,1
+2019,Queensland,Male,Passenger,0 - 16,4
+2019,Queensland,Male,Passenger,17 - 25,7
+2019,Queensland,Male,Passenger,26 - 39,4
+2019,Queensland,Male,Passenger,40 - 64,1
+2019,Queensland,Male,Passenger,65 - 74,1
+2019,Queensland,Male,Passenger,>= 75,3
+2019,Queensland,Male,Pedal cyclist,0 - 16,1
+2019,Queensland,Male,Pedal cyclist,40 - 64,4
+2019,Queensland,Male,Pedal cyclist,>= 75,1
+2019,Queensland,Male,Pedestrian,0 - 16,2
+2019,Queensland,Male,Pedestrian,17 - 25,5
+2019,Queensland,Male,Pedestrian,26 - 39,1
+2019,Queensland,Male,Pedestrian,40 - 64,2
+2019,Queensland,Male,Pedestrian,>= 75,3
+2019,South Australia,Female,Driver,17 - 25,1
+2019,South Australia,Female,Driver,26 - 39,1
+2019,South Australia,Female,Driver,40 - 64,6
+2019,South Australia,Female,Driver,65 - 74,2
+2019,South Australia,Female,Driver,>= 75,2
+2019,South Australia,Female,Passenger,17 - 25,3
+2019,South Australia,Female,Passenger,40 - 64,2
+2019,South Australia,Female,Passenger,65 - 74,1
+2019,South Australia,Female,Pedal cyclist,26 - 39,1
+2019,South Australia,Female,Pedestrian,0 - 16,3
+2019,South Australia,Female,Pedestrian,26 - 39,1
+2019,South Australia,Female,Pedestrian,40 - 64,2
+2019,South Australia,Female,Pedestrian,>= 75,3
+2019,South Australia,Male,Driver,17 - 25,9
+2019,South Australia,Male,Driver,26 - 39,12
+2019,South Australia,Male,Driver,40 - 64,12
+2019,South Australia,Male,Driver,65 - 74,4
+2019,South Australia,Male,Driver,>= 75,11
+2019,South Australia,Male,Motorcycle rider,0 - 16,1
+2019,South Australia,Male,Motorcycle rider,17 - 25,5
+2019,South Australia,Male,Motorcycle rider,26 - 39,6
+2019,South Australia,Male,Motorcycle rider,40 - 64,4
+2019,South Australia,Male,Motorcycle rider,65 - 74,1
+2019,South Australia,Male,Passenger,17 - 25,1
+2019,South Australia,Male,Passenger,26 - 39,1
+2019,South Australia,Male,Passenger,>= 75,1
+2019,South Australia,Male,Pedal cyclist,26 - 39,1
+2019,South Australia,Male,Pedal cyclist,40 - 64,4
+2019,South Australia,Male,Pedal cyclist,65 - 74,1
+2019,South Australia,Male,Pedestrian,17 - 25,3
+2019,South Australia,Male,Pedestrian,26 - 39,1
+2019,South Australia,Male,Pedestrian,40 - 64,3
+2019,South Australia,Male,Pedestrian,65 - 74,3
+2019,South Australia,Male,Pedestrian,>= 75,2
+2019,Tasmania,Female,Driver,26 - 39,2
+2019,Tasmania,Female,Driver,40 - 64,2
+2019,Tasmania,Female,Driver,65 - 74,1
+2019,Tasmania,Female,Driver,>= 75,1
+2019,Tasmania,Female,Motorcycle rider,40 - 64,1
+2019,Tasmania,Female,Passenger,>= 75,1
+2019,Tasmania,Female,Pedestrian,>= 75,1
+2019,Tasmania,Male,Driver,17 - 25,3
+2019,Tasmania,Male,Driver,26 - 39,1
+2019,Tasmania,Male,Driver,40 - 64,4
+2019,Tasmania,Male,Driver,65 - 74,1
+2019,Tasmania,Male,Driver,>= 75,2
+2019,Tasmania,Male,Motorcycle rider,17 - 25,3
+2019,Tasmania,Male,Motorcycle rider,26 - 39,1
+2019,Tasmania,Male,Motorcycle rider,40 - 64,1
+2019,Tasmania,Male,Motorcycle rider,>= 75,1
+2019,Tasmania,Male,Passenger,17 - 25,1
+2019,Tasmania,Male,Pedestrian,26 - 39,1
+2019,Tasmania,Male,Pedestrian,40 - 64,1
+2019,Victoria,Female,Driver,0 - 16,1
+2019,Victoria,Female,Driver,17 - 25,1
+2019,Victoria,Female,Driver,26 - 39,6
+2019,Victoria,Female,Driver,40 - 64,9
+2019,Victoria,Female,Driver,65 - 74,2
+2019,Victoria,Female,Driver,>= 75,6
+2019,Victoria,Female,Motorcycle rider,40 - 64,1
+2019,Victoria,Female,Passenger,0 - 16,2
+2019,Victoria,Female,Passenger,17 - 25,9
+2019,Victoria,Female,Passenger,26 - 39,2
+2019,Victoria,Female,Passenger,40 - 64,1
+2019,Victoria,Female,Passenger,65 - 74,5
+2019,Victoria,Female,Passenger,>= 75,8
+2019,Victoria,Female,Pedal cyclist,40 - 64,1
+2019,Victoria,Female,Pedestrian,17 - 25,3
+2019,Victoria,Female,Pedestrian,40 - 64,2
+2019,Victoria,Female,Pedestrian,65 - 74,2
+2019,Victoria,Female,Pedestrian,>= 75,7
+2019,Victoria,Male,Driver,17 - 25,19
+2019,Victoria,Male,Driver,26 - 39,21
+2019,Victoria,Male,Driver,40 - 64,26
+2019,Victoria,Male,Driver,65 - 74,8
+2019,Victoria,Male,Driver,>= 75,14
+2019,Victoria,Male,Motorcycle rider,17 - 25,5
+2019,Victoria,Male,Motorcycle rider,26 - 39,11
+2019,Victoria,Male,Motorcycle rider,40 - 64,22
+2019,Victoria,Male,Motorcycle rider,65 - 74,4
+2019,Victoria,Male,Other/-9,17 - 25,1
+2019,Victoria,Male,Other/-9,40 - 64,1
+2019,Victoria,Male,Passenger,0 - 16,3
+2019,Victoria,Male,Passenger,17 - 25,7
+2019,Victoria,Male,Passenger,26 - 39,6
+2019,Victoria,Male,Passenger,40 - 64,4
+2019,Victoria,Male,Passenger,>= 75,1
+2019,Victoria,Male,Pedal cyclist,0 - 16,2
+2019,Victoria,Male,Pedal cyclist,17 - 25,3
+2019,Victoria,Male,Pedal cyclist,26 - 39,2
+2019,Victoria,Male,Pedal cyclist,40 - 64,2
+2019,Victoria,Male,Pedal cyclist,>= 75,1
+2019,Victoria,Male,Pedestrian,0 - 16,2
+2019,Victoria,Male,Pedestrian,17 - 25,5
+2019,Victoria,Male,Pedestrian,26 - 39,5
+2019,Victoria,Male,Pedestrian,40 - 64,10
+2019,Victoria,Male,Pedestrian,65 - 74,1
+2019,Victoria,Male,Pedestrian,>= 75,12
+2019,Western Australia,Female,Driver,17 - 25,2
+2019,Western Australia,Female,Driver,26 - 39,4
+2019,Western Australia,Female,Driver,40 - 64,3
+2019,Western Australia,Female,Driver,65 - 74,2
+2019,Western Australia,Female,Driver,>= 75,1
+2019,Western Australia,Female,Motorcycle rider,65 - 74,1
+2019,Western Australia,Female,Passenger,0 - 16,3
+2019,Western Australia,Female,Passenger,17 - 25,4
+2019,Western Australia,Female,Passenger,26 - 39,6
+2019,Western Australia,Female,Passenger,40 - 64,2
+2019,Western Australia,Female,Passenger,65 - 74,2
+2019,Western Australia,Female,Passenger,>= 75,4
+2019,Western Australia,Female,Pedestrian,17 - 25,3
+2019,Western Australia,Female,Pedestrian,26 - 39,1
+2019,Western Australia,Female,Pedestrian,40 - 64,2
+2019,Western Australia,Female,Pedestrian,65 - 74,1
+2019,Western Australia,Female,Pedestrian,>= 75,1
+2019,Western Australia,Male,Driver,17 - 25,14
+2019,Western Australia,Male,Driver,26 - 39,13
+2019,Western Australia,Male,Driver,40 - 64,33
+2019,Western Australia,Male,Driver,65 - 74,5
+2019,Western Australia,Male,Driver,>= 75,5
+2019,Western Australia,Male,Motorcycle rider,17 - 25,7
+2019,Western Australia,Male,Motorcycle rider,26 - 39,4
+2019,Western Australia,Male,Motorcycle rider,40 - 64,13
+2019,Western Australia,Male,Motorcycle rider,65 - 74,1
+2019,Western Australia,Male,Motorcycle rider,>= 75,1
+2019,Western Australia,Male,Passenger,0 - 16,3
+2019,Western Australia,Male,Passenger,17 - 25,2
+2019,Western Australia,Male,Passenger,26 - 39,5
+2019,Western Australia,Male,Passenger,40 - 64,2
+2019,Western Australia,Male,Passenger,65 - 74,2
+2019,Western Australia,Male,Passenger,>= 75,1
+2019,Western Australia,Male,Pedal cyclist,26 - 39,1
+2019,Western Australia,Male,Pedestrian,0 - 16,1
+2019,Western Australia,Male,Pedestrian,17 - 25,1
+2019,Western Australia,Male,Pedestrian,26 - 39,1
+2019,Western Australia,Male,Pedestrian,40 - 64,3
+2019,Western Australia,Male,Pedestrian,65 - 74,1
+2019,Western Australia,Male,Pedestrian,>= 75,2
+2020,Australian Capital Territory,Female,Passenger,65 - 74,1
+2020,Australian Capital Territory,Male,Driver,17 - 25,1
+2020,Australian Capital Territory,Male,Driver,40 - 64,1
+2020,Australian Capital Territory,Male,Passenger,26 - 39,2
+2020,New South Wales,Female,Driver,17 - 25,8
+2020,New South Wales,Female,Driver,26 - 39,7
+2020,New South Wales,Female,Driver,40 - 64,5
+2020,New South Wales,Female,Driver,65 - 74,4
+2020,New South Wales,Female,Driver,>= 75,6
+2020,New South Wales,Female,Motorcycle pillion passenger,17 - 25,1
+2020,New South Wales,Female,Motorcycle pillion passenger,40 - 64,1
+2020,New South Wales,Female,Motorcycle rider,26 - 39,1
+2020,New South Wales,Female,Motorcycle rider,40 - 64,2
+2020,New South Wales,Female,Passenger,0 - 16,2
+2020,New South Wales,Female,Passenger,17 - 25,4
+2020,New South Wales,Female,Passenger,26 - 39,5
+2020,New South Wales,Female,Passenger,40 - 64,2
+2020,New South Wales,Female,Passenger,65 - 74,1
+2020,New South Wales,Female,Passenger,>= 75,1
+2020,New South Wales,Female,Pedal cyclist,65 - 74,1
+2020,New South Wales,Female,Pedestrian,0 - 16,5
+2020,New South Wales,Female,Pedestrian,26 - 39,2
+2020,New South Wales,Female,Pedestrian,40 - 64,4
+2020,New South Wales,Female,Pedestrian,>= 75,4
+2020,New South Wales,Male,Driver,17 - 25,16
+2020,New South Wales,Male,Driver,26 - 39,28
+2020,New South Wales,Male,Driver,40 - 64,24
+2020,New South Wales,Male,Driver,65 - 74,8
+2020,New South Wales,Male,Driver,>= 75,11
+2020,New South Wales,Male,Motorcycle rider,0 - 16,1
+2020,New South Wales,Male,Motorcycle rider,17 - 25,3
+2020,New South Wales,Male,Motorcycle rider,26 - 39,7
+2020,New South Wales,Male,Motorcycle rider,40 - 64,14
+2020,New South Wales,Male,Motorcycle rider,65 - 74,1
+2020,New South Wales,Male,Motorcycle rider,>= 75,3
+2020,New South Wales,Male,Passenger,0 - 16,2
+2020,New South Wales,Male,Passenger,17 - 25,9
+2020,New South Wales,Male,Passenger,26 - 39,1
+2020,New South Wales,Male,Passenger,40 - 64,2
+2020,New South Wales,Male,Passenger,>= 75,2
+2020,New South Wales,Male,Pedal cyclist,0 - 16,1
+2020,New South Wales,Male,Pedal cyclist,26 - 39,1
+2020,New South Wales,Male,Pedal cyclist,40 - 64,6
+2020,New South Wales,Male,Pedal cyclist,65 - 74,1
+2020,New South Wales,Male,Pedal cyclist,>= 75,1
+2020,New South Wales,Male,Pedestrian,0 - 16,1
+2020,New South Wales,Male,Pedestrian,17 - 25,2
+2020,New South Wales,Male,Pedestrian,26 - 39,6
+2020,New South Wales,Male,Pedestrian,40 - 64,9
+2020,New South Wales,Male,Pedestrian,65 - 74,4
+2020,New South Wales,Male,Pedestrian,>= 75,6
+2020,Northern Territory,Female,Driver,26 - 39,2
+2020,Northern Territory,Female,Driver,40 - 64,2
+2020,Northern Territory,Female,Passenger,0 - 16,1
+2020,Northern Territory,Female,Passenger,17 - 25,1
+2020,Northern Territory,Female,Passenger,26 - 39,2
+2020,Northern Territory,Male,Driver,17 - 25,3
+2020,Northern Territory,Male,Driver,26 - 39,1
+2020,Northern Territory,Male,Motorcycle rider,40 - 64,2
+2020,Northern Territory,Male,Other/-9,65 - 74,1
+2020,Northern Territory,Male,Passenger,0 - 16,1
+2020,Northern Territory,Male,Passenger,17 - 25,2
+2020,Northern Territory,Male,Passenger,40 - 64,1
+2020,Northern Territory,Male,Pedal cyclist,26 - 39,1
+2020,Queensland,Female,Driver,17 - 25,4
+2020,Queensland,Female,Driver,26 - 39,3
+2020,Queensland,Female,Driver,40 - 64,10
+2020,Queensland,Female,Driver,65 - 74,5
+2020,Queensland,Female,Driver,>= 75,2
+2020,Queensland,Female,Motorcycle pillion passenger,17 - 25,1
+2020,Queensland,Female,Motorcycle pillion passenger,26 - 39,1
+2020,Queensland,Female,Motorcycle rider,>= 75,1
+2020,Queensland,Female,Passenger,0 - 16,3
+2020,Queensland,Female,Passenger,17 - 25,9
+2020,Queensland,Female,Passenger,40 - 64,1
+2020,Queensland,Female,Passenger,65 - 74,1
+2020,Queensland,Female,Passenger,>= 75,3
+2020,Queensland,Female,Pedal cyclist,40 - 64,2
+2020,Queensland,Female,Pedestrian,0 - 16,2
+2020,Queensland,Female,Pedestrian,40 - 64,1
+2020,Queensland,Female,Pedestrian,65 - 74,1
+2020,Queensland,Female,Pedestrian,>= 75,2
+2020,Queensland,Male,Driver,17 - 25,16
+2020,Queensland,Male,Driver,26 - 39,23
+2020,Queensland,Male,Driver,40 - 64,17
+2020,Queensland,Male,Driver,65 - 74,3
+2020,Queensland,Male,Driver,>= 75,7
+2020,Queensland,Male,Motorcycle pillion passenger,17 - 25,1
+2020,Queensland,Male,Motorcycle rider,17 - 25,3
+2020,Queensland,Male,Motorcycle rider,26 - 39,11
+2020,Queensland,Male,Motorcycle rider,40 - 64,15
+2020,Queensland,Male,Motorcycle rider,65 - 74,3
+2020,Queensland,Male,Passenger,0 - 16,4
+2020,Queensland,Male,Passenger,17 - 25,4
+2020,Queensland,Male,Passenger,26 - 39,3
+2020,Queensland,Male,Passenger,40 - 64,8
+2020,Queensland,Male,Passenger,65 - 74,1
+2020,Queensland,Male,Pedal cyclist,0 - 16,1
+2020,Queensland,Male,Pedal cyclist,40 - 64,3
+2020,Queensland,Male,Pedal cyclist,65 - 74,1
+2020,Queensland,Male,Pedestrian,0 - 16,1
+2020,Queensland,Male,Pedestrian,17 - 25,2
+2020,Queensland,Male,Pedestrian,26 - 39,4
+2020,Queensland,Male,Pedestrian,40 - 64,4
+2020,Queensland,Male,Pedestrian,65 - 74,2
+2020,Queensland,Male,Pedestrian,>= 75,4
+2020,South Australia,Female,Driver,17 - 25,3
+2020,South Australia,Female,Driver,26 - 39,1
+2020,South Australia,Female,Driver,40 - 64,2
+2020,South Australia,Female,Driver,65 - 74,1
+2020,South Australia,Female,Driver,>= 75,1
+2020,South Australia,Female,Passenger,0 - 16,1
+2020,South Australia,Female,Passenger,17 - 25,2
+2020,South Australia,Female,Passenger,40 - 64,1
+2020,South Australia,Female,Passenger,65 - 74,1
+2020,South Australia,Female,Passenger,>= 75,1
+2020,South Australia,Female,Pedal cyclist,40 - 64,1
+2020,South Australia,Female,Pedestrian,26 - 39,1
+2020,South Australia,Female,Pedestrian,40 - 64,2
+2020,South Australia,Female,Pedestrian,>= 75,1
+2020,South Australia,Male,Driver,17 - 25,4
+2020,South Australia,Male,Driver,26 - 39,7
+2020,South Australia,Male,Driver,40 - 64,6
+2020,South Australia,Male,Driver,65 - 74,1
+2020,South Australia,Male,Driver,>= 75,6
+2020,South Australia,Male,Motorcycle rider,0 - 16,1
+2020,South Australia,Male,Motorcycle rider,17 - 25,5
+2020,South Australia,Male,Motorcycle rider,26 - 39,6
+2020,South Australia,Male,Motorcycle rider,40 - 64,2
+2020,South Australia,Male,Passenger,0 - 16,1
+2020,South Australia,Male,Passenger,17 - 25,3
+2020,South Australia,Male,Passenger,26 - 39,1
+2020,South Australia,Male,Passenger,40 - 64,1
+2020,South Australia,Male,Passenger,>= 75,1
+2020,South Australia,Male,Pedestrian,17 - 25,1
+2020,South Australia,Male,Pedestrian,26 - 39,1
+2020,South Australia,Male,Pedestrian,40 - 64,1
+2020,Tasmania,Female,Driver,17 - 25,1
+2020,Tasmania,Female,Driver,26 - 39,1
+2020,Tasmania,Female,Driver,40 - 64,2
+2020,Tasmania,Female,Motorcycle pillion passenger,17 - 25,1
+2020,Tasmania,Female,Passenger,0 - 16,1
+2020,Tasmania,Female,Passenger,>= 75,1
+2020,Tasmania,Female,Pedestrian,40 - 64,2
+2020,Tasmania,Male,Driver,17 - 25,1
+2020,Tasmania,Male,Driver,26 - 39,1
+2020,Tasmania,Male,Driver,40 - 64,7
+2020,Tasmania,Male,Driver,65 - 74,1
+2020,Tasmania,Male,Driver,>= 75,1
+2020,Tasmania,Male,Motorcycle rider,26 - 39,1
+2020,Tasmania,Male,Motorcycle rider,40 - 64,2
+2020,Tasmania,Male,Passenger,40 - 64,1
+2020,Tasmania,Male,Pedestrian,26 - 39,1
+2020,Tasmania,Male,Pedestrian,40 - 64,1
+2020,Victoria,Unknown,Pedestrian,Unknown,4
+2020,Victoria,Female,Driver,17 - 25,2
+2020,Victoria,Female,Driver,26 - 39,9
+2020,Victoria,Female,Driver,40 - 64,2
+2020,Victoria,Female,Driver,65 - 74,1
+2020,Victoria,Female,Driver,>= 75,2
+2020,Victoria,Female,Motorcycle pillion passenger,17 - 25,1
+2020,Victoria,Female,Motorcycle rider,40 - 64,1
+2020,Victoria,Female,Passenger,17 - 25,1
+2020,Victoria,Female,Passenger,26 - 39,1
+2020,Victoria,Female,Passenger,40 - 64,3
+2020,Victoria,Female,Passenger,>= 75,6
+2020,Victoria,Female,Pedal cyclist,17 - 25,1
+2020,Victoria,Female,Pedal cyclist,40 - 64,2
+2020,Victoria,Female,Pedestrian,0 - 16,2
+2020,Victoria,Female,Pedestrian,40 - 64,1
+2020,Victoria,Female,Pedestrian,>= 75,2
+2020,Victoria,Male,Driver,17 - 25,10
+2020,Victoria,Male,Driver,26 - 39,22
+2020,Victoria,Male,Driver,40 - 64,14
+2020,Victoria,Male,Driver,65 - 74,3
+2020,Victoria,Male,Driver,>= 75,11
+2020,Victoria,Male,Motorcycle rider,17 - 25,4
+2020,Victoria,Male,Motorcycle rider,26 - 39,7
+2020,Victoria,Male,Motorcycle rider,40 - 64,12
+2020,Victoria,Male,Other/-9,26 - 39,1
+2020,Victoria,Male,Other/-9,>= 75,1
+2020,Victoria,Male,Passenger,Unknown,1
+2020,Victoria,Male,Passenger,0 - 16,1
+2020,Victoria,Male,Passenger,17 - 25,2
+2020,Victoria,Male,Passenger,26 - 39,4
+2020,Victoria,Male,Passenger,40 - 64,2
+2020,Victoria,Male,Passenger,>= 75,1
+2020,Victoria,Male,Pedal cyclist,0 - 16,1
+2020,Victoria,Male,Pedal cyclist,26 - 39,2
+2020,Victoria,Male,Pedal cyclist,40 - 64,3
+2020,Victoria,Male,Pedal cyclist,65 - 74,1
+2020,Victoria,Male,Pedal cyclist,>= 75,1
+2020,Victoria,Male,Pedestrian,0 - 16,1
+2020,Victoria,Male,Pedestrian,17 - 25,3
+2020,Victoria,Male,Pedestrian,26 - 39,2
+2020,Victoria,Male,Pedestrian,40 - 64,7
+2020,Victoria,Male,Pedestrian,>= 75,2
+2020,Western Australia,Female,Driver,17 - 25,3
+2020,Western Australia,Female,Driver,26 - 39,5
+2020,Western Australia,Female,Driver,40 - 64,2
+2020,Western Australia,Female,Driver,65 - 74,1
+2020,Western Australia,Female,Driver,>= 75,5
+2020,Western Australia,Female,Motorcycle rider,40 - 64,1
+2020,Western Australia,Female,Passenger,0 - 16,2
+2020,Western Australia,Female,Passenger,17 - 25,2
+2020,Western Australia,Female,Passenger,26 - 39,3
+2020,Western Australia,Female,Passenger,40 - 64,1
+2020,Western Australia,Female,Passenger,>= 75,3
+2020,Western Australia,Female,Pedestrian,26 - 39,3
+2020,Western Australia,Male,Driver,17 - 25,10
+2020,Western Australia,Male,Driver,26 - 39,10
+2020,Western Australia,Male,Driver,40 - 64,12
+2020,Western Australia,Male,Driver,65 - 74,6
+2020,Western Australia,Male,Driver,>= 75,3
+2020,Western Australia,Male,Motorcycle rider,17 - 25,1
+2020,Western Australia,Male,Motorcycle rider,26 - 39,6
+2020,Western Australia,Male,Motorcycle rider,40 - 64,8
+2020,Western Australia,Male,Motorcycle rider,65 - 74,1
+2020,Western Australia,Male,Passenger,0 - 16,1
+2020,Western Australia,Male,Passenger,17 - 25,2
+2020,Western Australia,Male,Passenger,26 - 39,2
+2020,Western Australia,Male,Passenger,40 - 64,3
+2020,Western Australia,Male,Passenger,>= 75,3
+2020,Western Australia,Male,Pedal cyclist,0 - 16,2
+2020,Western Australia,Male,Pedal cyclist,26 - 39,1
+2020,Western Australia,Male,Pedal cyclist,40 - 64,1
+2020,Western Australia,Male,Pedestrian,26 - 39,1
+2020,Western Australia,Male,Pedestrian,40 - 64,1
