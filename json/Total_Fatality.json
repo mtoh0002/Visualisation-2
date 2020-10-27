@@ -13,7 +13,7 @@
       "lookup": "properties.STATE_NAME",
       "from": {
         "data": {
-          "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Map_data.csv"
+          "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
         },
         "key": "State",
         "fields": ["Year", "Fatality", "Population"]
