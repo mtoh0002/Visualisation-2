@@ -1,0 +1,130 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Gender_Age_Data.csv"
+  },
+  "spacing": 0,
+  "params": [
+    {
+      "name": "Year",
+      "value": 0,
+      "bind": {
+        "input": "range",
+        "min": 1989,
+        "max": 2020,
+        "step": 1,
+        "name": "Year: "
+      }
+    },
+    {
+      "name": "State_selection",
+      "bind": {
+        "input": "select",
+        "options": [
+          null,
+          "Northern Territory",
+          "Tasmania",
+          "Queensland",
+          "South Australia",
+          "New South Wales",
+          "Victoria",
+          "Australian Capital Territory"
+        ],
+        "labels": [
+          "Show All",
+          "Northern Territory",
+          "Tasmania",
+          "Queensland",
+          "South Australia",
+          "New South Wales",
+          "Victoria",
+          "Australian Capital Territory"
+        ],
+        "name": "State:"
+      }
+    }
+  ],
+  "hconcat": [
+    {
+      "transform": [{"filter": {"field": "Gender", "equal": "Female"}}],
+      "title": "Female",
+      "mark": "bar",
+      "encoding": {
+        "y": {"field": "Age Group", "axis": null, "sort": "descending"},
+        "x": {
+          "aggregate": "sum",
+          "field": "Fatality",
+          "title": "Fatalities",
+          "axis": {"format": "s"},
+          "sort": "descending"
+        },
+        "color": {
+          "field": "Gender",
+          "scale": {"range": ["#675193", "#ca8861"]},
+          "legend": null
+        },
+        "tooltip": [
+          {"field": "Gender", "type": "nominal"},
+          {"field": "Age Group", "type": "nominal"},
+          {
+            "aggregate": "sum",
+            "field": "Fatality",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Fatalities"
+          }
+        ]
+      }
+    },
+    {
+      "width": 20,
+      "view": {"stroke": null},
+      "mark": {"type": "text", "align": "center"},
+      "encoding": {
+        "y": {
+          "field": "Age Group",
+          "type": "ordinal",
+          "axis": null,
+          "sort": "descending"
+        },
+        "text": {"field": "Age Group"}
+      }
+    },
+    {
+      "transform": [{"filter": {"field": "Gender", "equal": "Male"}}],
+      "title": "Male",
+      "mark": "bar",
+      "encoding": {
+        "y": {
+          "field": "Age Group",
+          "title": null,
+          "axis": null,
+          "sort": "descending"
+        },
+        "x": {
+          "aggregate": "sum",
+          "field": "Fatality",
+          "title": "Fatalities",
+          "axis": {"format": "s"}
+        },
+        "color": {"field": "Gender", "legend": null},
+        "tooltip": [
+          {"field": "Gender", "type": "nominal"},
+          {"field": "Age Group", "type": "nominal"},
+          {
+            "aggregate": "sum",
+            "field": "Fatality",
+            "type": "quantitative",
+            "format": ",",
+            "title": "Fatalities"
+          }
+        ]
+      }
+    }
+  ],
+  "config": {"view": {"stroke": null}, "axis": {"grid": false}},
+  "transform": [
+    {"filter": "State_selection == null || datum.State == State_selection"},
+    {"filter": "Year == datum.Year"}
+  ]
+}
