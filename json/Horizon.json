@@ -1,0 +1,54 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Horizon Graph with 2 layers. (See https://idl.cs.washington.edu/papers/horizon/ for more details on Horizon Graphs.)",
+  "data": {
+    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
+  },
+  "transform": [
+    {
+      "calculate": "datum.Fatality/datum.Population * 10000",
+      "as": "Normalised"
+    },
+    {"filter": "datum.State"}
+  ],
+  "facet": {"row": {"field": "State"}},
+  "spec": {
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "scale": {"zero": false, "nice": false}
+      },
+      "y": {
+        "field": "Normalised",
+        "type": "quantitative",
+        "scale": {"domain": [0, 2]},
+        "axis": {"title": null}
+      },
+      "color": {"field": "State"}
+    },
+    "layer": [
+      {
+        "mark": {
+          "type": "area",
+          "clip": true,
+          "orient": "vertical",
+          "opacity": 0.6
+        }
+      },
+      {
+        "transform": [{"calculate": "datum.Normalised - 2", "as": "n"}],
+        "mark": {"type": "area", "clip": true, "orient": "vertical"},
+        "encoding": {
+          "y": {
+            "field": "n",
+            "type": "quantitative",
+            "scale": {"domain": [0, 2]}
+          },
+          "opacity": {"value": 0.3}
+        }
+      }
+    ]
+  },
+  "config": {"area": {"interpolate": "monotone"}}
+}
