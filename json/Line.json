@@ -4,7 +4,7 @@
   "height": 300,
   "title": "Vechicular Fatalities per State from 1989 to 2020",
   "data": {
-    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Dataset.csv"
+    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
   },
   "params": [
     {
