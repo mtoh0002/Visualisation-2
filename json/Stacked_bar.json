@@ -1,7 +1,7 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "data": {
-    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Gender_Age_Data.csv"
+    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Dataset.csv"
   },
   "spacing": 0,
   "params": [
