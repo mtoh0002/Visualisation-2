@@ -1,54 +1,77 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "description": "Horizon Graph with 2 layers. (See https://idl.cs.washington.edu/papers/horizon/ for more details on Horizon Graphs.)",
   "data": {
-    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
+     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
   },
-  "transform": [
+   "transform": [
     {
       "calculate": "datum.Fatality/datum.Population * 10000",
       "as": "Normalised"
     },
-    {"filter": "datum.State"}
-  ],
-  "facet": {"row": {"field": "State"}},
-  "spec": {
-    "encoding": {
-      "x": {
-        "field": "Year",
-        "type": "temporal",
-        "scale": {"zero": false, "nice": false}
-      },
-      "y": {
-        "field": "Normalised",
-        "type": "quantitative",
-        "scale": {"domain": [0, 2]},
-        "axis": {"title": null}
-      },
-      "color": {"field": "State"}
+    {"filter": "datum.State"}],
+    "facet":{"row":{"field":"State","title":"Fatalities per 10,000 population"}},
+    "spec":{
+      "width": 900,
+      "height": 40,
+      "encoding": {
+    "x": {
+      "field": "Year", "type": "temporal",
+      "scale": {"zero": false, "nice": false}
     },
-    "layer": [
-      {
-        "mark": {
-          "type": "area",
-          "clip": true,
-          "orient": "vertical",
-          "opacity": 0.6
-        }
-      },
-      {
-        "transform": [{"calculate": "datum.Normalised - 2", "as": "n"}],
-        "mark": {"type": "area", "clip": true, "orient": "vertical"},
-        "encoding": {
-          "y": {
-            "field": "n",
-            "type": "quantitative",
-            "scale": {"domain": [0, 2]}
-          },
-          "opacity": {"value": 0.3}
-        }
+    "y": {
+      "field": "Normalised", "type": "quantitative",
+      "scale": {"domain": [0,2]},
+      "axis": {"title": null}
+    },
+    "color": {
+      "field": "State",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Australian Capital Territory",
+          "New South Wales",
+          "Northern Territory",
+          "Queensland",
+          "South Australia",
+          "Tasmania",
+          "Victoria",
+          "Western Australia"
+        ],
+        "range": [
+          "#e41a1c",
+          "#984ea3",
+          "#ff7f00",
+          "#a6cee3",
+          "#377eb8",
+          "#a65628",
+          "#4a7d3e",
+          "#E1CE8B"
+        ]
       }
-    ]
+      }
   },
-  "config": {"area": {"interpolate": "monotone"}}
+  "layer": [{
+    "mark": {"type": "area", "clip": true, "orient": "vertical", "opacity": 0.6}
+  }, {
+    "transform": [{"calculate": "datum.Normalised - 2", "as": "n"}],
+    "mark": {"type": "area", "clip": true, "orient": "vertical"},
+    "encoding": {
+      "y": {
+        "field": "n", "type": "quantitative",
+        "scale": {"domain": [0,2]}
+      },
+      "opacity": {"value": 0.3}
+    }
+  }]}
+  ,
+  "config": {
+    "area": {"interpolate": "monotone"},
+    "headerRow":{"title": null,
+    "labelFontSize":0,
+    "labelPadding":0},
+    "facet": {"spacing":8},
+    "legend": {"orient":"bottom","titleOrient":"left"},
+    "axis": {"title":null,
+    "grid":false}
+}
 }
