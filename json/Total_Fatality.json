@@ -45,7 +45,7 @@
     },
     "tooltip": [
       {"field": "properties.STATE_NAME", "type": "nominal", "title": "State"},
-      {"field": "Fatalities per 10,000 population", "type": "quantitative", "format":".4"},
+      {"field": "Fatalities per 10,000 population", "type": "quantitative", "format":".2f"},
       {"field": "Year", "type": "quantitative"}
     ]
   },
