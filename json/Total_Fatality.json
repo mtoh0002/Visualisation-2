@@ -1,7 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Total Vehicular Fatalities as of Sept 2020",
-  "width": 800,
+  "width": 1000,
   "height": 600,
   "projection": {"type": "equirectangular"},
   "data": {
