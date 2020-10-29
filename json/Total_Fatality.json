@@ -3,7 +3,6 @@
   "title": "Total Vehicular Fatalities as of Sept 2020",
   "width": 800,
   "height": 600,
-  "padding":{"right":0},
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/json/aus_states.topojson",
