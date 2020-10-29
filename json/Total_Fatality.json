@@ -1,8 +1,9 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "title": "Total Vehicular Fatalities as of Sept 2020",
-  "width": 8000,
+  "width": 800,
   "height": 600,
+  "padding":{"right":0},
   "projection": {"type": "equirectangular"},
   "data": {
     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/json/aus_states.topojson",
@@ -41,7 +42,7 @@
     "color": {
       "field": "Fatalities per 10,000 population",
       "type": "quantitative",
-      "legend": {"orient":"top-right"}
+      "legend": {"orient":"bottom-left","titleOrient":"left"}
     },
     "tooltip": [
       {"field": "properties.STATE_NAME", "type": "nominal", "title": "State"},
@@ -49,8 +50,9 @@
       {"field": "Year", "type": "quantitative"}
     ]
   },
-  "config": {"style": {
+  "config": {
+    "style": {
     "cell": {
-      "stroke": "transparent"}},
-  "legend": {"orient":"bottom","titleOrient":"left"}
+      "stroke": "transparent"}}
+}
 }
