@@ -15,7 +15,7 @@
     "row": {"field": "State", "title": "Fatalities per 10,000 population"}
   },
   "spec": {
-    "width": 1100,
+    "width": 1000,
     "height": 40,
     "encoding": {
       "x": {
