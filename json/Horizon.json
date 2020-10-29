@@ -11,7 +11,7 @@
     {"filter": "datum.State"}],
     "facet":{"row":{"field":"State","title":"Fatalities per 10,000 population"}},
     "spec":{
-      "width": 800,
+      "width": 700,
       "height": 40,
       "encoding": {
     "x": {
