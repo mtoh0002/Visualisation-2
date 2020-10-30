@@ -1,11 +1,57 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "title":"Fatality rates within States",
   "width": 1100,
   "height": 900,
-  "projection": {"type": "equirectangular", "center": [133.7751, -26.2744],"scale":1490},
   "data": {
-    "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/json/aus_states.topojson",
-    "format": {"type": "topojson", "feature": "STE11aAust"}
+      "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
+    },
+    "transform": [
+      {
+        "lookup": "State",
+        "from": {
+          "data": {
+            "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/json/aus_states.topojson",
+            "format": {
+              "type": "topojson",
+              "feature": "STE11aAust"
+            }
+          },
+          "key": "properties.STATE_NAME"
+        },
+        "as":"geo"},
+    {
+      "calculate": "datum.Fatality/datum.Population * 10000",
+      "as": "Fatalities per 10,000 population"
+    },
+     {"filter": "Year_selection == datum.Year"}],
+    "projection": {
+    "type": "equirectangular",
+    "center": [133.7751, -26.2744],
+    "scale": 1490
+  },
+  "mark": "geoshape",
+    "encoding": {
+      "shape": {
+        "field": "geo",
+        "type": "geojson"
+      },
+      "text":{"field":"State"},
+      "color": {
+      "field": "Fatalities per 10,000 population",
+      "type": "quantitative",
+      "scale":{"type":"threshold","domain": [0,0.5,1,2,3.5]},
+      "legend": {"orient": "bottom-left", "titleOrient": "left","direction":"horizontal"}
+    },
+    "tooltip": [
+      {"field": "State", "type": "nominal", "title": "State"},
+      {
+        "field": "Fatalities per 10,000 population",
+        "type": "quantitative",
+        "format": ".2f"
+      },
+      {"field": "Year", "type": "quantitative"}
+    ]
   },
   "params": [
     {
@@ -20,39 +66,9 @@
       }
     }
   ],
-  "transform": [
-    {
-      "lookup": "properties.STATE_NAME",
-      "from": {
-        "data": {
-          "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
-        },
-        "key": "State",
-        "fields": ["Year", "Fatality", "Population"]
-      }
-    },
-    {
-      "calculate": "datum.Fatality/datum.Population * 10000",
-      "as": "Fatalities per 10,000 population"
-    }
-  ],
-  "mark": {"type": "geoshape"},
-  "encoding": {
-    "color": {
-      "field": "Fatalities per 10,000 population",
-      "type": "quantitative",
-      "legend": {"orient": "bottom-left", 
-      "titleOrient": "left"}
-    },
-    "tooltip": [
-      {"field": "properties.STATE_NAME", "type": "nominal", "title": "State"},
-      {
-        "field": "Fatalities per 10,000 population",
-        "type": "quantitative",
-        "format": ".2f"
-      },
-      {"field": "Year", "type": "quantitative"}
-    ]
-  },
-  "config": {"style": {"cell": {"stroke": "transparent"}}, "mark":{"stroke": "#fff"}}
+    
+  "config": {
+    "style": {"cell": {"stroke": "transparent"}},
+    "mark": {"stroke": "#fff"}
+  }
 }
