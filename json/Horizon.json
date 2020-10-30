@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Fatality_data.csv"
   },
-  "title": "Fatalities per 10,000 population accross Time",
+  "title": "Fatalities per 10,000 population across Time",
   "transform": [
     {
       "calculate": "datum.Fatality/datum.Population * 10000",
@@ -12,7 +12,7 @@
     {"filter": "datum.State"}
   ],
   "facet": {
-    "row": {"field": "State", "title": "Fatalities per 10,000 population"}
+    "row": {"field": "State","header":{"labelAngle": 0, "labelOrient": "right"}}
   },
   "spec": {
     "width": 1000,
@@ -44,22 +44,28 @@
             "Western Australia"
           ],
           "range": [
-            "#e41a1c",
-            "#984ea3",
-            "#ff7f00",
-            "#a6cee3",
-            "#377eb8",
-            "#a65628",
-            "#4a7d3e",
-            "#E1CE8B"
+            "#6baed6",
+            "#6baed6",
+            "#08519c",
+            "#6baed6",
+            "#6baed6",
+            "#6baed6",
+            "#6baed6",
+            "#6baed6"
           ]
-        }
+        },
+        "legend":null
       },
       "tooltip": [
-          {"field": "State", "type": "nominal"},
-          {"field": "Year", "type": "temporal","format": "%Y"},
-          {"field":"Normalised","type":"quantitative","format":".2f", "title":"Fatalities per 10,000 population"}
-        ]
+        {"field": "State", "type": "nominal"},
+        {"field": "Year", "type": "temporal", "format": "%Y"},
+        {
+          "field": "Normalised",
+          "type": "quantitative",
+          "format": ".2f",
+          "title": "Fatalities per 10,000 population"
+        }
+      ]
     },
     "layer": [
       {
@@ -70,7 +76,6 @@
           "opacity": 0.6
         }
       },
-    
       {
         "transform": [{"calculate": "datum.Normalised - 2", "as": "n"}],
         "mark": {"type": "area", "clip": true, "orient": "vertical"},
@@ -87,9 +92,9 @@
   },
   "config": {
     "area": {"interpolate": "monotone"},
-    "headerRow": {"title": null, "labelFontSize": 0, "labelPadding": 0},
+    "headerRow": {"title": null},
+    
     "facet": {"spacing": 8},
-    "legend": {"orient": "bottom", "titleOrient": "left"},
     "axis": {"title": null, "grid": false}
   }
 }
