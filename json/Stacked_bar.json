@@ -3,6 +3,8 @@
   "data": {
     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Dataset.csv"
   },
+  "height": 300,
+  "width" : 1000,
   "spacing": 0,
   "params": [
     {
@@ -17,38 +19,58 @@
       }
     },
     {
-      "name": "State_selection",
+      "name": "User_selection",
       "bind": {
         "input": "select",
         "options": [
           null,
-          "Northern Territory",
-          "Tasmania",
-          "Queensland",
-          "South Australia",
-          "New South Wales",
-          "Victoria",
-          "Australian Capital Territory"
+         "Driver",
+            "Motorcycle pillion passenger",
+            "Motorcycle rider",
+            "Passenger",
+            "Pedal cyclist",
+            "Pedestrian",
+            "Other/-9"
         ],
         "labels": [
           "Show All",
-          "Northern Territory",
-          "Tasmania",
-          "Queensland",
-          "South Australia",
-          "New South Wales",
-          "Victoria",
-          "Australian Capital Territory"
+          "Driver",
+          "Motorcycle pillion passenger",
+          "Motorcycle rider",
+          "Passenger",
+          "Pedal cyclist",
+          "Pedestrian",
+          "Other/-9"
         ],
-        "name": "State:"
+        "name": "Road User:"
       }
     }
   ],
   "mark": "bar",
   "encoding": {
-    "x": {"aggregate": "sum", "field": "Fatality"},
-    "y": {"field": "State"},
-    "color": {"field": "Road_User", "title": "Road User"},
+    "x": {"aggregate": "sum", "field": "Fatality","title":"Fatalities"},
+    "y": {"field": "State","title":null},
+    "color": {"field": "Road_User", "title": "Road User","type":"nominal",
+    "scale": {
+          "domain": [
+            "Driver",
+            "Motorcycle pillion passenger",
+            "Motorcycle rider",
+            "Passenger",
+            "Pedal cyclist",
+            "Pedestrian",
+            "Other/-9"
+          ],
+          "range": [
+            "#cc6677",
+            "#332288",
+            "#ddcc77",
+            "#117733",
+            "#88ccee",
+            "#882255",
+            "#44aa99"
+          ]
+        }},
     "tooltip": [
       {"field": "State", "type": "nominal"},
       {"field": "Road_User", "type": "nominal"},
@@ -69,9 +91,10 @@
     }
   },
   "transform": [
-    {"filter": "State_selection == null || datum.State == State_selection"},
+    {"filter": "User_selection == null || datum.Road_User == User_selection"},
     {"filter": "Year == datum.Year"},
+    {"filter": "datum.Road_User != ''"},
     {"filter": {"selection": "User_highlight"}}
   ],
-  "config": {}
+  "config": {"legend":{"orient":"bottom","titleOrient": "left"}}
 }
