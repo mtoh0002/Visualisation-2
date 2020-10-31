@@ -1,4 +1,4 @@
-﻿State,Year,Month,Time,Gender,Road_User,Age Group,Fatality
+﻿State,Year,Month,Time,Gender,Road_User,Age_Group,Fatality
 Australian Capital Territory,1989,1,12:15:00 AM,Female,Driver,17 - 25,1
 Australian Capital Territory,1989,1,10:10:00 PM,Female,Passenger,>= 75,1
 Australian Capital Territory,1989,2,3:20:00 PM,Male,Driver,17 - 25,1
@@ -50563,4 +50563,3 @@ Western Australia,2020,9,4:03:00 PM,Male,Driver,40 - 64,1
 Western Australia,2020,9,6:39:00 PM,Male,Driver,65 - 74,1
 Western Australia,2020,9,7:35:00 PM,Male,Motorcycle rider,40 - 64,1
 Western Australia,2020,9,11:16:00 PM,Female,Pedestrian,26 - 39,1
-,,,,,,,
