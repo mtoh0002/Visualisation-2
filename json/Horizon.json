@@ -101,7 +101,7 @@
     ]
   },
   "config": {
-
+    "title":{"anchor":"middle"},
     "area": {"interpolate": "monotone"},
     "headerRow": {"title": null},
     "facet": {"spacing": 5},
