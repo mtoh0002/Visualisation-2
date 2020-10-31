@@ -12,10 +12,13 @@
     {"filter": "datum.State"}
   ],
   "facet": {
-    "row": {"field": "State","header":{"labelAngle": 0, "labelOrient": "right"}}
+    "row": {
+      "field": "State",
+      "header": {"labelAngle": 0, "labelOrient": "right","labelFontWeight":"bolder"}
+    }
   },
   "spec": {
-    "width": 1000,
+    "width": 1100,
     "height": 40,
     "encoding": {
       "x": {
@@ -44,17 +47,17 @@
             "Western Australia"
           ],
           "range": [
-            "#6baed6",
-            "#6baed6",
-            "#08519c",
-            "#6baed6",
-            "#6baed6",
-            "#6baed6",
-            "#6baed6",
-            "#6baed6"
+            "#c7e9b4",
+            "#c7e9b4",
+            "#2c7fb8",
+            "#c7e9b4",
+            "#c7e9b4",
+            "#c7e9b4",
+            "#c7e9b4",
+            "#c7e9b4"
           ]
         },
-        "legend":null
+        "legend": null
       },
       "tooltip": [
         {"field": "State", "type": "nominal"},
@@ -93,7 +96,6 @@
   "config": {
     "area": {"interpolate": "monotone"},
     "headerRow": {"title": null},
-    
     "facet": {"spacing": 8},
     "axis": {"title": null, "grid": false}
   }
