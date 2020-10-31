@@ -47,10 +47,11 @@
   "hconcat": [
     {
       "transform": [{"filter": {"field": "Gender", "equal": "Female"}}],
+      
       "title": "Female",
       "mark": "bar",
       "encoding": {
-        "y": {"field": "Age Group", "axis": null, "sort": "descending"},
+        "y": {"field": "Age_Group", "type":"ordinal", "axis": null, "sort": "descending"},
         "x": {
           "aggregate": "sum",
           "field": "Fatality",
@@ -60,12 +61,12 @@
         },
         "color": {
           "field": "Gender",
-          "scale": {"range": ["#675193", "#ca8861"]},
+          "scale": {"range": ["#33a02c", "#1f78b4"]},
           "legend": null
         },
         "tooltip": [
           {"field": "Gender", "type": "nominal"},
-          {"field": "Age Group", "type": "nominal"},
+          {"field": "Age_Group", "type": "nominal"},
           {
             "aggregate": "sum",
             "field": "Fatality",
@@ -82,12 +83,12 @@
       "mark": {"type": "text", "align": "center"},
       "encoding": {
         "y": {
-          "field": "Age Group",
+          "field": "Age_Group",
           "type": "ordinal",
           "axis": null,
           "sort": "descending"
         },
-        "text": {"field": "Age Group"}
+        "text": {"field": "Age_Group"}
       }
     },
     {
@@ -96,7 +97,7 @@
       "mark": "bar",
       "encoding": {
         "y": {
-          "field": "Age Group",
+          "field": "Age_Group",
           "title": null,
           "axis": null,
           "sort": "descending"
@@ -110,7 +111,7 @@
         "color": {"field": "Gender", "legend": null},
         "tooltip": [
           {"field": "Gender", "type": "nominal"},
-          {"field": "Age Group", "type": "nominal"},
+          {"field": "Age_Group", "type": "nominal"},
           {
             "aggregate": "sum",
             "field": "Fatality",
@@ -124,6 +125,7 @@
   ],
   "config": {"view": {"stroke": null}, "axis": {"grid": false}},
   "transform": [
+    {"filter":"datum.Age_Group != 'Unknown'"},
     {"filter": "State_selection == null || datum.State == State_selection"},
     {"filter": "Year == datum.Year"}
   ]
