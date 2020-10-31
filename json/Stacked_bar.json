@@ -4,7 +4,7 @@
     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Dataset.csv"
   },
   "height": 300,
-  "width" : 1000,
+  "width": 880,
   "spacing": 0,
   "params": [
     {
@@ -24,13 +24,13 @@
         "input": "select",
         "options": [
           null,
-         "Driver",
-            "Motorcycle pillion passenger",
-            "Motorcycle rider",
-            "Passenger",
-            "Pedal cyclist",
-            "Pedestrian",
-            "Other/-9"
+          "Driver",
+          "Motorcycle pillion passenger",
+          "Motorcycle rider",
+          "Passenger",
+          "Pedal cyclist",
+          "Pedestrian",
+          "Other/-9"
         ],
         "labels": [
           "Show All",
@@ -48,29 +48,33 @@
   ],
   "mark": "bar",
   "encoding": {
-    "x": {"aggregate": "sum", "field": "Fatality","title":"Fatalities"},
-    "y": {"field": "State","title":null},
-    "color": {"field": "Road_User", "title": "Road User","type":"nominal",
-    "scale": {
-          "domain": [
-            "Driver",
-            "Motorcycle pillion passenger",
-            "Motorcycle rider",
-            "Passenger",
-            "Pedal cyclist",
-            "Pedestrian",
-            "Other/-9"
-          ],
-          "range": [
-            "#cc6677",
-            "#332288",
-            "#ddcc77",
-            "#117733",
-            "#88ccee",
-            "#882255",
-            "#44aa99"
-          ]
-        }},
+    "x": {"aggregate": "sum", "field": "Fatality", "title": "Fatalities"},
+    "y": {"field": "State", "title": null},
+    "color": {
+      "field": "Road_User",
+      "title": "Road User",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Driver",
+          "Motorcycle pillion passenger",
+          "Motorcycle rider",
+          "Passenger",
+          "Pedal cyclist",
+          "Pedestrian",
+          "Other/-9"
+        ],
+        "range": [
+          "#cc6677",
+          "#332288",
+          "#ddcc77",
+          "#117733",
+          "#88ccee",
+          "#882255",
+          "#44aa99"
+        ]
+      }
+    },
     "tooltip": [
       {"field": "State", "type": "nominal"},
       {"field": "Road_User", "type": "nominal"},
@@ -96,5 +100,6 @@
     {"filter": "datum.Road_User != ''"},
     {"filter": {"selection": "User_highlight"}}
   ],
-  "config": {"legend":{"orient":"bottom","titleOrient": "left"}}
+  "config": {"legend": {"orient": "bottom", "titleOrient": "left"},
+  "axisY":{"labelAlign":"left","labelPadding":120}}
 }
