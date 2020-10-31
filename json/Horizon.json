@@ -15,15 +15,17 @@
     "row": {
       "field": "State",
       "header": {
-      "labelAngle": 0, 
-      "labelAlign":"left",
-      "labelFontWeight":"bold",
-      "labelPadding":0
+        "labelAngle": 0,
+        "labelOrient": "top",
+        "labelAlign":"left",
+        "labelAnchor": "start",
+        "labelFontWeight": "bold",
+        "labelPadding": -9
       }
     }
   },
   "spec": {
-    "width": 1000,
+    "width": 1100,
     "height": 40,
     "encoding": {
       "x": {
@@ -99,10 +101,10 @@
     ]
   },
   "config": {
-    "title":{"anchor":"middle"},
+
     "area": {"interpolate": "monotone"},
     "headerRow": {"title": null},
-    "facet": {"spacing": 8},
+    "facet": {"spacing": 5},
     "axis": {"title": null, "grid": false}
   }
 }
