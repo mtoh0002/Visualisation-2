@@ -20,7 +20,8 @@
         "labelAlign": "left",
         "labelAnchor": "start",
         "labelPadding": -9,
-        "labelFontSize":13
+        "labelFontSize": 11,
+        "labelFontWeight":"bold"
       }
     }
   },
@@ -101,10 +102,10 @@
     ]
   },
   "config": {
-    "title": {"anchor": "middle","fontSize":14},
+    "title": {"anchor": "middle", "fontSize": 14},
     "area": {"interpolate": "monotone"},
     "headerRow": {"title": null},
     "facet": {"spacing": 5},
-    "axis": {"title": null, "grid": false,"labelFontSize":11}
+    "axis": {"title": null, "grid": false, "labelFontSize": 11}
   }
 }
