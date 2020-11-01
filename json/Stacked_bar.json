@@ -102,6 +102,7 @@
     {"filter": {"selection": "User_highlight"}}
   ],
   "config": {
+    "view": {"stroke": null},
     "legend": {"orient": "bottom", "titleOrient": "left","labelFontSize":11, "titleFontSize":13},
     "axisY": {"labelAlign": "left", "labelPadding": 160,"labelFontSize":13},
     "axisX": {"grid": false,"labelFontSize":11,"titleFontSize":13},
