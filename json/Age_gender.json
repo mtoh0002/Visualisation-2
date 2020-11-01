@@ -63,7 +63,6 @@
           "aggregate": "sum",
           "field": "Fatality",
           "title": "Fatalities",
-          "axis": {"format": "s"},
           "sort": "descending"
         },
         "color": {
@@ -78,7 +77,7 @@
             "aggregate": "sum",
             "field": "Fatality",
             "type": "quantitative",
-            "format": ",",
+            "format": "f",
             "title": "Fatalities"
           }
         ]
@@ -115,8 +114,7 @@
         "x": {
           "aggregate": "sum",
           "field": "Fatality",
-          "title": "Fatalities",
-          "axis": {"format": "s"}
+          "title": "Fatalities"
         },
         "color": {"field": "Gender", "legend": null},
         "tooltip": [
@@ -138,6 +136,9 @@
     {"filter": "State_selection == null || datum.State == State_selection"},
     {"filter": "Year == datum.Year"}
   ],
-  "config": {"view": {"stroke": null}, "axis": {"grid": false},
-  "title":{"align": "center","anchor":"middle"}}
+  "config": {"view": {"stroke": null},
+  "axis": {"grid": false,"labelFontSize":11,"titleFontSize":13,"tickMinStep":1},
+  "mark":{"fontSize":14},
+  "title":{"align": "center","anchor":"middle","fontSize":14},
+  "legend": {"labelFontWeight": "bold"}}
 }
