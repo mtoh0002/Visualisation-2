@@ -77,7 +77,7 @@
             "aggregate": "sum",
             "field": "Fatality",
             "type": "quantitative",
-            "format": "f",
+            "format": ",",
             "title": "Fatalities"
           }
         ]
