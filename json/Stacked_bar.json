@@ -43,7 +43,7 @@
           "Pedestrian",
           "Other/-9"
         ],
-        "name": "Road User:"
+        "name": "Road User: "
       }
     }
   ],
@@ -116,6 +116,6 @@
       "labelFontWeight": "bold"
     },
     "axisX": {"grid": false, "labelFontSize": 11, "titleFontSize": 13,"tickMinStep": 1},
-    "title": {"fontSize": 14,"dx":-90}
+    "title": {"fontSize": 14,"dx":-70}
   }
 }
