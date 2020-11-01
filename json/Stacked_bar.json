@@ -109,8 +109,13 @@
       "labelFontSize": 11,
       "titleFontSize": 11
     },
-    "axisY": {"labelAlign": "left", "labelPadding": 150, "labelFontSize": 11,"labelFontWeight":"bold"},
+    "axisY": {
+      "labelAlign": "left",
+      "labelPadding": 150,
+      "labelFontSize": 11,
+      "labelFontWeight": "bold"
+    },
     "axisX": {"grid": false, "labelFontSize": 11, "titleFontSize": 13},
-    "title": {"fontSize": 14}
+    "title": {"fontSize": 14,"dx":-120}
   }
 }
