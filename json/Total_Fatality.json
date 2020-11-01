@@ -1,6 +1,6 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-  "title": "Fatality rates within States",
+  "title": "Fatalities per 10,000 within States",
   "width": 1100,
   "height": 900,
   "data": {
@@ -36,15 +36,24 @@
     "color": {
       "field": "Fatalities per 10,000 population",
       "type": "quantitative",
-      "scale": {"type": "threshold", "domain": [0.5, 1,1.5, 2, 3.5],"range":["#ffffcc","#c7e9b4",
-"#a1dab4",
-"#41b6c4",
-"#2c7fb8",
-"#253494"]},
+      "scale": {
+        "type": "threshold",
+        "domain": [0.5, 1, 1.5, 2, 3.5],
+        "range": [
+          "#ffffcc",
+          "#c7e9b4",
+          "#a1dab4",
+          "#41b6c4",
+          "#2c7fb8",
+          "#253494"
+        ]
+      },
       "legend": {
         "orient": "bottom-left",
-        "titleOrient": "left",
-        "direction": "horizontal"
+        "titleOrient": "top",
+        "direction": "horizontal",
+        "labelFontSize": 11,
+         "titleFontSize": 11
       }
     },
     "tooltip": [
@@ -72,6 +81,7 @@
   ],
   "config": {
     "style": {"cell": {"stroke": "transparent"}},
-    "mark": {"stroke": "#252525"}
+    "mark": {"stroke": "#252525"},
+    "title": {"fontSize": 14}
   }
 }
