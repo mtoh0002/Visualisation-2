@@ -3,8 +3,9 @@
   "data": {
     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Dataset.csv"
   },
+  "title": "Road Usage of Fatalities",
   "height": 300,
-  "width": 980,
+  "width": 940,
   "spacing": 0,
   "params": [
     {
@@ -100,6 +101,10 @@
     {"filter": "datum.Road_User != ''"},
     {"filter": {"selection": "User_highlight"}}
   ],
-  "config": {"legend": {"orient": "bottom", "titleOrient": "left"},
-  "axisY":{"labelAlign":"left","labelPadding":120}}
+  "config": {
+    "legend": {"orient": "bottom", "titleOrient": "left","labelFontSize":11, "titleFontSize":13},
+    "axisY": {"labelAlign": "left", "labelPadding": 160,"labelFontSize":13},
+    "axisX": {"grid": false,"labelFontSize":11,"titleFontSize":13},
+    "title":{"fontSize":14}
+  }
 }
