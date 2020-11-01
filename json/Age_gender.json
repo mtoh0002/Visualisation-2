@@ -47,11 +47,39 @@
   ],
   "hconcat": [
     {
-      "transform": [{"filter": {"field": "Gender", "equal": "Female"}}],
+      "transform": [{
+    "window": [{
+      "op": "sum",
+      "field": "Fatality",
+      "as": "Total"
+    }],
+    "frame": [null, null]
+  }, {
+    "calculate": "datum.Fatality/datum.Total * 100",
+    "as": "PercentOfTotal"
+  },{"filter": {"field": "Gender", "equal": "Female"}}],
       "title": "Female",
-      "mark": "bar",
       "height": 200,
       "width": 515,
+
+      "layer":[{
+      "mark": "bar"},
+      {"mark": {
+        "type": "text",
+        "align": "left",
+        "baseline": "middle",
+        "dx": -40,
+        "fontSize": 11
+      },
+      "encoding": {
+        "text": {
+          "aggregate":"sum",
+          "field": "PercentOfTotal",
+          "format":".2f", 
+          "type": "quantitative"
+        }
+      }
+  }],
       "encoding": {
         "y": {
           "field": "Age_Group",
@@ -61,9 +89,10 @@
         },
         "x": {
           "aggregate": "sum",
-          "field": "Fatality",
-          "title": "Fatalities",
-          "sort": "descending"
+          "field": "PercentOfTotal",
+          "title": "Percentage of Fatalities (%)",
+          "sort": "descending",
+          "scale": {"domain": [0,50]}
         },
         "color": {
           "field": "Gender",
@@ -72,13 +101,20 @@
         },
         "tooltip": [
           {"field": "Gender", "type": "nominal"},
-          {"field": "Age_Group", "type": "nominal"},
+          {"field": "Age_Group", "type": "nominal","title":"Age Group"},
           {
             "aggregate": "sum",
             "field": "Fatality",
             "type": "quantitative",
             "format": ",",
             "title": "Fatalities"
+          },
+          {
+            "aggregate": "sum",
+            "field": "PercentOfTotal",
+            "type": "quantitative",
+            "format": ".2f",
+            "title": "Percentage of Fatalities"
           }
         ]
       }
@@ -99,11 +135,35 @@
       }
     },
     {
-      "transform": [{"filter": {"field": "Gender", "equal": "Male"}}],
+      "transform": [{
+    "window": [{"op": "sum","field": "Fatality","as": "Total"}],
+    "frame": [null, null]},
+    {
+    "calculate": "datum.Fatality/datum.Total * 100",
+    "as": "PercentOfTotal"
+  },
+  {"filter": {"field": "Gender", "equal": "Male"}}],
       "title": "Male",
       "height": 200,
       "width": 515,
-      "mark": "bar",
+       "layer":[{
+      "mark": "bar"},
+      {"mark": {
+        "type": "text",
+        "align": "right",
+        "baseline": "middle",
+        "dx": 40,
+        "fontSize": 11
+      },
+      "encoding": {
+        "text": {
+          "aggregate":"sum",
+          "field": "PercentOfTotal",
+          "format":".2f", 
+          "type": "quantitative"
+        }
+      }
+  }],
       "encoding": {
         "y": {
           "field": "Age_Group",
@@ -111,17 +171,28 @@
           "axis": null,
           "sort": "descending"
         },
-        "x": {"aggregate": "sum", "field": "Fatality", "title": "Fatalities"},
-        "color": {"field": "Gender", "legend": null},
-        "tooltip": [
+        "x": {
+          "aggregate": "sum",
+          "field": "PercentOfTotal",
+          "title": "Percentage of Fatalities (%)",
+          "scale": {"domain": [0,50]}},
+          "color": {"field": "Gender", "legend": null},
+          "tooltip": [
           {"field": "Gender", "type": "nominal"},
-          {"field": "Age_Group", "type": "nominal"},
+          {"field": "Age_Group", "type": "nominal","title":"Age Group"},
           {
             "aggregate": "sum",
             "field": "Fatality",
             "type": "quantitative",
             "format": ",",
             "title": "Fatalities"
+          },
+          {
+            "aggregate": "sum",
+            "field": "PercentOfTotal",
+            "type": "quantitative",
+            "format": ".2f",
+            "title": "Percentage of Fatalities"
           }
         ]
       }
@@ -140,7 +211,7 @@
       "titleFontSize": 13,
       "tickMinStep": 1
     },
-    "mark": {"fontSize": 11},
+    "mark": {"fontSize": 12},
     "title": {"align": "center", "anchor": "middle", "fontSize": 14},
     "legend": {"labelFontWeight": "bold"}
   }
