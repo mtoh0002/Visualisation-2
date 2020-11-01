@@ -5,7 +5,7 @@
   },
   "title": "Road Usage of Fatalities",
   "height": 300,
-  "width": 970,
+  "width": 950,
   "spacing": 0,
   "params": [
     {
@@ -109,7 +109,7 @@
       "labelFontSize": 11,
       "titleFontSize": 11
     },
-    "axisY": {"labelAlign": "left", "labelPadding": 130, "labelFontSize":11},
+    "axisY": {"labelAlign": "left", "labelPadding": 150, "labelFontSize": 11,"labelFontWeight":"bold"},
     "axisX": {"grid": false, "labelFontSize": 11, "titleFontSize": 13},
     "title": {"fontSize": 14}
   }
