@@ -17,10 +17,10 @@
       "header": {
         "labelAngle": 0,
         "labelOrient": "top",
-        "labelAlign":"left",
+        "labelAlign": "left",
         "labelAnchor": "start",
-        "labelFontWeight": "bold",
-        "labelPadding": -9
+        "labelPadding": -9,
+        "labelFontSize":13
       }
     }
   },
@@ -101,10 +101,10 @@
     ]
   },
   "config": {
-    "title":{"anchor":"middle"},
+    "title": {"anchor": "middle","fontSize":14},
     "area": {"interpolate": "monotone"},
     "headerRow": {"title": null},
     "facet": {"spacing": 5},
-    "axis": {"title": null, "grid": false}
+    "axis": {"title": null, "grid": false,"labelFontSize":11}
   }
 }
