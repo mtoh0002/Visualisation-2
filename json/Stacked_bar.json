@@ -116,6 +116,6 @@
       "labelFontWeight": "bold"
     },
     "axisX": {"grid": false, "labelFontSize": 11, "titleFontSize": 13},
-    "title": {"fontSize": 14,"dx":-120}
+    "title": {"fontSize": 14,"dx":-90}
   }
 }
