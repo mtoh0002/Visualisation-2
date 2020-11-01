@@ -3,7 +3,7 @@
   "data": {
     "url": "https://raw.githubusercontent.com/mtoh0002/Visualisation-2/master/data/Dataset.csv"
   },
-  "title":"Age and gender of Fatalities",
+  "title": "Age and gender of Fatalities",
   "spacing": 0,
   "params": [
     {
@@ -51,7 +51,7 @@
       "title": "Female",
       "mark": "bar",
       "height": 200,
-      "width":500,
+      "width": 515,
       "encoding": {
         "y": {
           "field": "Age_Group",
@@ -67,7 +67,7 @@
         },
         "color": {
           "field": "Gender",
-          "scale": {"range": ["#AA4499","#999933"]},
+          "scale": {"range": ["#AA4499", "#999933"]},
           "legend": null
         },
         "tooltip": [
@@ -84,8 +84,8 @@
       }
     },
     {
-      "width": 100,
-      "height":200,
+      "width": 70,
+      "height": 200,
       "view": {"stroke": null},
       "mark": {"type": "text", "align": "center"},
       "encoding": {
@@ -102,7 +102,7 @@
       "transform": [{"filter": {"field": "Gender", "equal": "Male"}}],
       "title": "Male",
       "height": 200,
-      "width":500,     
+      "width": 515,
       "mark": "bar",
       "encoding": {
         "y": {
@@ -111,11 +111,7 @@
           "axis": null,
           "sort": "descending"
         },
-        "x": {
-          "aggregate": "sum",
-          "field": "Fatality",
-          "title": "Fatalities"
-        },
+        "x": {"aggregate": "sum", "field": "Fatality", "title": "Fatalities"},
         "color": {"field": "Gender", "legend": null},
         "tooltip": [
           {"field": "Gender", "type": "nominal"},
@@ -131,14 +127,21 @@
       }
     }
   ],
-    "transform": [
+  "transform": [
     {"filter": "datum.Age_Group != 'Unknown'"},
     {"filter": "State_selection == null || datum.State == State_selection"},
     {"filter": "Year == datum.Year"}
   ],
-  "config": {"view": {"stroke": null},
-  "axis": {"grid": false,"labelFontSize":11,"titleFontSize":13,"tickMinStep":1},
-  "mark":{"fontSize":14},
-  "title":{"align": "center","anchor":"middle","fontSize":14},
-  "legend": {"labelFontWeight": "bold"}}
+  "config": {
+    "view": {"stroke": null},
+    "axis": {
+      "grid": false,
+      "labelFontSize": 11,
+      "titleFontSize": 13,
+      "tickMinStep": 1
+    },
+    "mark": {"fontSize": 11},
+    "title": {"align": "center", "anchor": "middle", "fontSize": 14},
+    "legend": {"labelFontWeight": "bold"}
+  }
 }
